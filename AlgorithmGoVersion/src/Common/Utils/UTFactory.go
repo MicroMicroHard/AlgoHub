@@ -116,7 +116,7 @@ func (u *UTFactory) PrintUTData(clazz interface{}) {
 		fmt.Println(errInfo)
 	}
 	for _, utData := range clazzUTData {
-		u.paramsPrint(utData)
+		u.ParamsPrint(utData)
 		//Display("", reflect.ValueOf(utData))
 	}
 }

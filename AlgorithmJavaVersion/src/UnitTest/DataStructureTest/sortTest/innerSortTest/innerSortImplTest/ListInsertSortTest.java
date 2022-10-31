@@ -7,10 +7,10 @@ import UnitTest.DataStructureTest.sortTest.innerSortTest.SortTest;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-14 22:15
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 链表的插入排序
  * 链表本身的插入排序:
  * @blogURL

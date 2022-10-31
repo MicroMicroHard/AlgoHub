@@ -3,11 +3,11 @@ package DataStructure.arrayRelevant.preSumAndDiffArray;
 import Top100.PreSumAndDiffArray;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/9/8
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 差分数组
  * 链接：https://mp.weixin.qq.com/s/9L6lz0XDZ9gi-d_iPrSs8Q
  */

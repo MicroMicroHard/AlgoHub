@@ -1,8 +1,8 @@
 package Algorithm.dynamic.palindrome1;
 /** 
- *@author liujun
+ *@author 蔚蔚樱
  *@date 2018-8-19 上午01:34:47
- *@author—Email ljfirst@mail.ustc.edu.cn
+ *@author—Email micromicrohard@outlook.com
  *@description  添加构造回文串
  * 给定一个字符串s，你可以从中 添加 一个 字符，使得剩下的串是一个回文串，
  * 如果通过添加一个字符得到回文，则返回添加元素的位置(起始地址：1)，否则返回 -1，

@@ -3,10 +3,10 @@ package Common.Utils;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/10 16:47
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 数学相关的检查函数
  * 数组中的最小值：{@link MathTools#GetMostValue}
  * 检测matrix 是否为空矩阵 {@link MathTools#judgeIsNull}

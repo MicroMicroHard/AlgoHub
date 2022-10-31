@@ -3,11 +3,11 @@ package Algorithm.math;
 import Top100.BigIntegerOpera;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/5/15
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 大整数除法
  * @blog https://wenku.baidu.com/view/202b9fda730abb68a98271fe910ef12d2af9a901.html
  */

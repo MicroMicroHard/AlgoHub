@@ -1,10 +1,10 @@
 package DataStructure.sort.innerSort;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-14 21:27
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 所有排序算法的接口
  * 冒泡、选择、归并、插入
  * 计数、基数、桶排序、希尔

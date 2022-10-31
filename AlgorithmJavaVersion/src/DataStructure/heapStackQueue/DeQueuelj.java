@@ -1,11 +1,11 @@
 package DataStructure.heapStackQueue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/14
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 双端队列的基本用法
  * 1、元素入队：首部入队            {@link DeQueuelj#offerFront}
  * 2、元素出队：尾部入队            {@link DeQueuelj#pollFront}

@@ -6,11 +6,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/4
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description
  */
 public class BIgLottoTest {

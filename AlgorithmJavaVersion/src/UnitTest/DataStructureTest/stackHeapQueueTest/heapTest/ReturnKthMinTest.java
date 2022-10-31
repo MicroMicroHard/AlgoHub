@@ -4,10 +4,10 @@ import DataStructure.heapStackQueue.heap.ReturnKthMin;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-10 09:51
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 返回最小的 第K个 元素 测试案例
  * @blogURL
  */

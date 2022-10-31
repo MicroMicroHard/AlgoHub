@@ -5,10 +5,10 @@ import DataStructure.sort.innerSort.innerSortImpl.InsertSort;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 上午11:56:07
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 贪心算法
  */
 public class Backpack_Greedy implements Backpack {

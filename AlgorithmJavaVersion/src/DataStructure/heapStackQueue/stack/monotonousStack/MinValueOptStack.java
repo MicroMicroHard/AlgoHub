@@ -3,10 +3,10 @@ package DataStructure.heapStackQueue.stack.monotonousStack;
 import DataStructure.heapStackQueue.stack.ArrayStacklj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-10-21 12:19
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 最小栈 优化
  * 实现一个这样的栈，这个栈除了可以进行普通的push、pop操作以外，还可以进行getMin的操作，
  * getMin方法被调用后，会返回当前栈的最小值。栈里面存放的都是 int 整数，并且数值的范围是 [-100000, 100000]。

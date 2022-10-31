@@ -7,10 +7,10 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-27 下午09:37:31
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 统计给定字符串中出现做多的 数字 和 其次数的 乘积
  */
 

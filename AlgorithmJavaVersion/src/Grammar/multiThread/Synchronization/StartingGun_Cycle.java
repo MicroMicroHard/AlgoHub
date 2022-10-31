@@ -8,10 +8,10 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/21 16:33
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 发令枪问题 循环发令枪
  * 能够重复使用的发令枪：CyclicBarrier
  * @blogURL

@@ -5,10 +5,10 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-23 12:09:20
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 简化文件路径
  * 给你一个字符串 path ，表示指向某一文件或目录的Unix 风格 绝对路径 （以 '/' 开头），请你将其转化为更加简洁的规范路径。
  * 在 Unix 风格的文件系统中，一个点（.）表示当前目录本身；此外，两个点 （..）表示将目录切换到上一级（指向父目录）；

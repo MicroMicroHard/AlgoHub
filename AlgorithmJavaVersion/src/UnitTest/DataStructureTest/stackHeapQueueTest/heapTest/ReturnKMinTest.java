@@ -8,10 +8,10 @@ import java.lang.reflect.Method;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 02:48
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 返回最小的 K 个元素
  * @blogURL
  */

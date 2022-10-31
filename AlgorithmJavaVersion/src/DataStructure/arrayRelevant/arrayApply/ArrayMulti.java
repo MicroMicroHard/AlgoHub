@@ -5,11 +5,11 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/20
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 给定一个数组 A[0,1,…,n-1]，请构建一个数组 B[0,1,…,n-1]，
  * 其中B[i] 的值是数组 A 中除了下标 i 以外的元素的积, 即B[i]=A[0]×A[1]×…×A[i-1]×A[i+1]×…×A[n-1]。不能使用除法。
  * <p>

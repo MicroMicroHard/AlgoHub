@@ -4,10 +4,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-12-17 下午02:14:33
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最长无重复子串
  * LongestnoRepeatSubstring
  * 给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。

@@ -7,11 +7,11 @@ import DataStructure.stringOps.slidingWindow.Combination_Sliding;
 import DataStructure.tree.binaryTree.binaryTreeApply.BT_JumpLevelSum;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/2/9
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst/article/details/122782616?spm=1001.2014.3001.5502
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard/article/details/122782616?spm=1001.2014.3001.5502
  * @description 零钱交换专题
  * 有这样一个问题：给定不同面额的硬币 coins 和一个总金额 target，求出组成target金额的硬币序列。
  * <p>

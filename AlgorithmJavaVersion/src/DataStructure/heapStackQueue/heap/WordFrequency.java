@@ -7,10 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/12 11:01 PM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 词频统计
  * 实现统计一篇英文文章内每个单词的出现频率，并返回出现频率最高的前10个单词及其出现次数？
  */

@@ -5,10 +5,10 @@ import Top100.BackTrack;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-23 上午09:56:39
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 数组全排列  只加一把锁
  * 给定一个可包含重复数字的序列 nums ，按任意顺序 返回所有不重复的全排列。
  * 输入1：1、2、3

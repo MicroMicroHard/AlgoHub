@@ -1,10 +1,10 @@
 package DataStructure.heapStackQueue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-01-13 22:01
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 栈
  * 1、出栈
  * 2、入栈

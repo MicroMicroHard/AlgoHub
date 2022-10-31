@@ -5,10 +5,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-30 00:08
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最大子段和 分治法
  * LargestSumOfSubSequence by divide
  * 给定一个数组，求这个数组的连续子数组中，最大的那一段的和

@@ -4,11 +4,11 @@ import DataStructure.arrayRelevant.arrayTransformation.ReversalString2;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/25
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description
  */
 public class ReversalString2Test {
@@ -51,8 +51,8 @@ public class ReversalString2Test {
     String target04 = null;
     char c04 = '$';
 
-    String demo05 = "liujun@mail.ustc.edu.cn";
-    String target05 = "mail.ustc.edu.cn@liujun";
+    String demo05 = "micromicrohard@mail.ustc.edu.cn";
+    String target05 = "mail.ustc.edu.cn@micromicrohard";
     char c05 = '@';
 
     String demo06 = "123456789^abcdefghijklmn";

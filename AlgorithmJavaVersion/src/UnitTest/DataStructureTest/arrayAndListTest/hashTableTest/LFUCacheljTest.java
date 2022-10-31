@@ -4,11 +4,11 @@ import DataStructure.list.hashTable.LFUCachelj;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/5
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 最近最少使用算法 测试案例
  */
 public class LFUCacheljTest {

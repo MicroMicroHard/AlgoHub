@@ -5,10 +5,10 @@ import DataStructure.graph.VertexNode;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-2 下午04:43:17
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 普瑞姆算法 Prim
  * Prim算法主要考虑在选取mst的节点的时候，构造一个与mst邻接的数组，来统计剩余节点到mst的最短距离
  * 如果是双向边，mst的邻接数组考虑使用数组来维护

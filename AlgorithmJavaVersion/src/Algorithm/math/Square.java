@@ -3,11 +3,11 @@ package Algorithm.math;
 import Top100.Mathlj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/6
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 平方根
  * @attention
  * 1、每次取值都是在区间的中点，一开始区间左边界是0，右边界是被平方数

@@ -1,10 +1,10 @@
 package Algorithm.math;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/7/18 00:56
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 大整数除法 结构体
  * @blogURL
  */

@@ -3,10 +3,10 @@ package Algorithm.math;
 import Top100.BitOperation;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-9-3 下午06:59:34
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 计算bit位中1的个数
  * 1)获取二进制正数中1位的数量
  * 2)获取二进制补码中1位的数量

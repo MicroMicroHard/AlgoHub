@@ -3,10 +3,10 @@ package UnitTest.AlgorithmTest.combineTest.optimalScheduleTest;
 import Algorithm.comprehensive.optimalSchedule.OptimalSchedule;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-06 22:06
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description
  * @blogURL
  */

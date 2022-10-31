@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-23 上午11:59:55
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 左小右大的数
  * 一个int 数组，里面数据无任何限制，要求出所有这样的数a[i]，其左边的数都小于等于它，右边的数都大于等于它。
  * 能否只用一个额外数组和少量其它空间实现。

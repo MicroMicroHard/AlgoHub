@@ -1,10 +1,10 @@
 package Algorithm.dynamic.palindrome1;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-16 下午11:19:38
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 通过两个字符串删除一部分内容，再拼接构造回文串/由子序列构造的最长回文串的长度
  * 给你两个字符串 word1 和 word2 ，请你按下述方法构造一个字符串：
  * 从 word1 中选出某个 非空 子序列 subsequence1 。

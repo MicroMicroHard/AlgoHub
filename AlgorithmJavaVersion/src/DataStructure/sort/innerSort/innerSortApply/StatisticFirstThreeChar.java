@@ -5,9 +5,9 @@ import java.util.Map;
 import java.util.regex.Pattern;
 
 /** 
- *@author liujun
+ *@author 蔚蔚樱
  *@date 2018-7-30 下午05:13:23
- *@author—Email ljfirst@mail.ustc.edu.cn
+ *@author—Email micromicrohard@outlook.com
  *@description  给定一个英文字符串,请写一段代码找出这个字符串中首先出现三次的那个英文字符(需要区分大小写)。
  *解题思路：
  *1）map方法：

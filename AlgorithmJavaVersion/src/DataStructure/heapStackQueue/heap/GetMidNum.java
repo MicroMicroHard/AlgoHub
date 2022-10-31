@@ -4,11 +4,11 @@ package DataStructure.heapStackQueue.heap;
 import DataStructure.heapStackQueue.Queuelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/5/15
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 得到一个数据流中的中位数
  * 如果从数据流中读出奇数个数值，那么中位数就是所有数值排序之后位于中间的数值。
  * 如果从数据流中读出偶数个数值，那么中位数就是所有数值排序之后中间两个数的平均值。

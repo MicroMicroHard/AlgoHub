@@ -5,7 +5,7 @@ import DataStructure.tree.binaryTree.array2BinaryTree.Array2BTByPreOrder;
 import DataStructure.tree.binaryTree.binaryTree2Array.BT2ArrayByPreOrder;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-18 16:09
  * 二叉树 ： 判断两个二叉树相等
  */

@@ -1,10 +1,10 @@
 package Algorithm.dynamic.lcs;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 Time：上午10:15:35
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最长公共子序列
  * longest Common Sequence
  * LCS算法，找出两个字符串最大匹配子序列。

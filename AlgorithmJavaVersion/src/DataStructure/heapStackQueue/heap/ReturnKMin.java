@@ -5,10 +5,10 @@ import DataStructure.sort.innerSort.innerSortImpl.HeapSort;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-25 04:58:29
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 返回数组中最小的 k 个元素
  * @method 快排法、堆排法
  */

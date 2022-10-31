@@ -3,11 +3,11 @@ package DataStructure.heapStackQueue.stack;
 import DataStructure.heapStackQueue.queue.ArrayQueuelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/23
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 队列栈
  * 使用队列实现栈的功能
  * 主要实现：出栈、入栈、获取栈首元素

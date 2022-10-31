@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.stream.Collectors;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-21 09:08
  * @description 二叉树中和为某值的节点路径
  * 输入一颗二叉树的根节点和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。

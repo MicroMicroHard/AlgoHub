@@ -5,10 +5,10 @@ import lombok.Data;
 import java.util.Random;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-7 下午05:23:40
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 苹果机 model
  * @URL
  */

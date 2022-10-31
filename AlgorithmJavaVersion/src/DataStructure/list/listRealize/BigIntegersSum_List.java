@@ -3,11 +3,11 @@ package DataStructure.list.listRealize;
 import DataStructure.list.Nodelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/11
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 链表相加
  * 两个数倒叙存放于链表中：7642+654
  * 输入： 链表A：2->4->6->7,链表B：4->5->6

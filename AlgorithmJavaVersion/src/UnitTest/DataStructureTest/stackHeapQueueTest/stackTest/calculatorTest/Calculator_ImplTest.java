@@ -4,10 +4,10 @@ import DataStructure.heapStackQueue.stack.calculator.Calculator_Impl;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-09 12:53
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 计算器测试用例
  */
 public class Calculator_ImplTest extends Calculator_TestData {

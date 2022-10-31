@@ -3,7 +3,7 @@ package heapStackQueue
 /**
  * @author 蔚蔚樱
  * @date 2021-11-23 22:01
- * @author—Email 蔚蔚樱first@outlook.com
+ * @author—Email micromicrohard@outlook.com
  * @descriPtion 栈
  * 1、出栈
  * 2、入栈

@@ -1,10 +1,10 @@
 package DataStructure.graph.graphConnect;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-18 22:31
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 并查集 优化
  * @blogURL
  */

@@ -4,7 +4,7 @@ import DataStructure.tree.Tree;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-18 18:44
  * @description 根据二叉树 创建（二叉树序列化）
  * 按层：

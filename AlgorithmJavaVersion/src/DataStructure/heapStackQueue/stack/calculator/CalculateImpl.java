@@ -7,10 +7,10 @@ import Common.Constant.C;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-5-13 10:29:49
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description Calculate 计算器
  * 代码第一部分，处理输入的计算式，处理完输出list: 具体见 JudgeExpress
  * 代码第二部分，中缀表达式转化为后缀表达式

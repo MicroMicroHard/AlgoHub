@@ -7,10 +7,10 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-09 22:23
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 顺时针打印螺旋矩阵 测试案例
  */
 public class ClockwiseSpiralMatrixTest {

@@ -5,10 +5,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/4/2 22:07
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 找出 补充并反转后的 最大连续的数字1的个数
  * 给定一个二进制数组 nums 和一个整数 k，如果可以翻转最多 k 个 0 ，则返回 数组中连续 1 的最大个数 。
  * @blogURL https://leetcode-cn.com/problems/max-consecutive-ones-iii/description/

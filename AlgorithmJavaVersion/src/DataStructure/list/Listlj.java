@@ -1,11 +1,11 @@
 package DataStructure.list;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/11/1
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 链表专题
  * 1、插入（批量插入、指定位置插入）
  * 2、删除（删除元素、删除指定位置的元素）

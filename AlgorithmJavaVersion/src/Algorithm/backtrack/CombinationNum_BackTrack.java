@@ -9,11 +9,11 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/14
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 组合数组中的数之和为指定值  --- 换零钱的递归做法
  * 给定数组 array=[1,3,6,8,5] 和 给定的目标值 target=9
  * 数组可以无限重复的选择，最终给出符合target的序列

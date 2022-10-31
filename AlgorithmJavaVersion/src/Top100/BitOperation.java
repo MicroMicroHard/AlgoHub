@@ -8,10 +8,10 @@ import DataStructure.arrayRelevant.xor.FindNum_Once_Double;
 import DataStructure.arrayRelevant.xor.FindNum_Treble_One;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-9-3 下午06:59:34
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description bit操作题
  */
 

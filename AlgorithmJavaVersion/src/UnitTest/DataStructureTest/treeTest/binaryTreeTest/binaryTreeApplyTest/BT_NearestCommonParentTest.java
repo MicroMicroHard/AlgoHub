@@ -7,11 +7,11 @@ import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/11/5
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 查找最近公共父节点 测试案例
  */
 public class BT_NearestCommonParentTest extends BT_TestData_Tree {

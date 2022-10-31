@@ -6,10 +6,10 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/5/1 22:20
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description RabbitMQCliTest
  * @blogURL
  */

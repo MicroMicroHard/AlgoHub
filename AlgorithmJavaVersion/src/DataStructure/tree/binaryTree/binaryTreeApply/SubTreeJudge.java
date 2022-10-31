@@ -3,10 +3,10 @@ package DataStructure.tree.binaryTree.binaryTreeApply;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-21 10:57:09
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 二叉树子树判断
  */
 public class SubTreeJudge {

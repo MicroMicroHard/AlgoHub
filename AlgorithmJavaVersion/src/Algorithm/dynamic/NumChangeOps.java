@@ -3,11 +3,11 @@ package Algorithm.dynamic;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/14
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 数字变换 升级版
  * 给定一个正整数 x, 可以对x做如下变换:
  * 给定两个参数: k,t。 任意时刻你可以对你的数执行下面两个步骤之一：

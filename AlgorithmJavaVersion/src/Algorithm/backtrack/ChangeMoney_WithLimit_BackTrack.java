@@ -1,10 +1,10 @@
 package Algorithm.backtrack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:42
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 换零钱 加上限制数组
  * <p>
  * 给定不同面额的硬币 coins 和一个总金额 target。

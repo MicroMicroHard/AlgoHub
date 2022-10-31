@@ -1,11 +1,11 @@
 package DataStructure.arrayRelevant.findValue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/29
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 在矩阵中查找某两个值等于给定值
  */
 public class Find2ValueinMatrix implements FindValue {

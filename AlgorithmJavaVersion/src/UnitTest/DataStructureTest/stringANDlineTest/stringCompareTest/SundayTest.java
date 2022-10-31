@@ -5,10 +5,10 @@ import UnitTest.DataStructureTest.stringANDlineTest.StringCompareTestDemo;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date�� 2019-12-06 22:54
- * @author��Email ljfirst@mail.ustc.edu.cn
+ * @author��Email micromicrohard@outlook.com
  * @description 
  * @blogURL
  */

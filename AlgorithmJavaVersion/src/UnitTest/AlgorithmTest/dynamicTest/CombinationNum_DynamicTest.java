@@ -4,10 +4,10 @@ import Algorithm.dynamic.CombinationNum_Dynamic;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:42
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 求数组中元素之和为指定值
  * CombinationNum_NonRepeat(dynamic)
  * 给你一个 只包含正整数 的 非空 数组 nums 和一个给定值 Target 。求出数组中是否存在某些值相加等于 Target。

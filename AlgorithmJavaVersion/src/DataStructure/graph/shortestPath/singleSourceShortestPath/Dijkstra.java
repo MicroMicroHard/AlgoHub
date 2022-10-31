@@ -3,10 +3,10 @@ package DataStructure.graph.shortestPath.singleSourceShortestPath;
 import Common.Utils.MathTools;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-25 21:11
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 迪杰斯特拉算法 Dijkstra
  * 输入：一幅图和一个起点 start，
  * 输出：计算 start 到其他节点的最短距离

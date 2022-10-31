@@ -7,7 +7,7 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-18 18:44
  * @description 根据二叉树 创建数组【二叉树序列化】 测试案例
  * 按层：

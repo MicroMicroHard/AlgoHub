@@ -5,10 +5,10 @@ import Top100.Dynamic;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/27
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @blogURL https://leetcode-cn.com/problems/maximum-product-subarray/
  * @description 最大子段乘积(连续)
  * 给定一个数组，求出这个数组最大连续的子段乘积

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-20 11:39
  * @description 计算二叉树中最大的子树路径和
  * 1、记录最大的子树路径和

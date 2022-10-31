@@ -6,10 +6,10 @@ import DataStructure.list.listRealize.SinglyLinkedList;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/6 21:16
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 单链表
  * 单链表的插入：数组和单个元素 （头插和尾插）
  * 单链表的删除：删除特定元素和指定位置元素

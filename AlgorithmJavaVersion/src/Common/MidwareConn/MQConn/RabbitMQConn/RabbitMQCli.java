@@ -7,10 +7,10 @@ import com.rabbitmq.client.*;
 import Common.Conf.Config;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/5/1 22:20
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description RabbitMQ
  * RabbitMQCli提供三个基础方法:获取连接、发送消息、接受消息
  * {@link RabbitMQCli#getConnection}

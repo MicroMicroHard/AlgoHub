@@ -6,11 +6,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-8-2 下午01:18:35
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst/article/details/98177653
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard/article/details/98177653
  * @description 吸血鬼数字
  * 吸血鬼数字是指位数为偶数的数字，可以由一对数字相乘而得到，
  * 而这对数字各包含乘积的一半位数的数字，其中从最初的数字中选取的数字可以任意排序.

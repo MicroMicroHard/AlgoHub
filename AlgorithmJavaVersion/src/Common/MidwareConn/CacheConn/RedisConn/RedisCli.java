@@ -8,10 +8,10 @@ import org.jredis.ri.alphazero.JRedisClient;
 import static org.jredis.ri.alphazero.support.DefaultCodec.toStr;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/4/10 19:38
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description
  * @blogURL
  */

@@ -1,11 +1,11 @@
 package Top100;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/1
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 接雨水问题
  * 1、盛水问题
  * 给定 n 个非负整数 x1,x2,x3...，每个数代表坐标中的一个点 (i,xi)。

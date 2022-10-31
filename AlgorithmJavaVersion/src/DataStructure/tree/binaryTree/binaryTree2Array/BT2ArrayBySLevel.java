@@ -4,10 +4,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/14 12:12
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description S形遍历二叉树 输出数组（栈）
  * @blogURL
  */

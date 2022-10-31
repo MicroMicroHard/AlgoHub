@@ -5,11 +5,11 @@ import Top100.DoublePoint;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/20
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 2数之和
  * 给定一个数 target，在一维数组中，找出某 2 个数相加得 target 的 所有组合【包括重复的位置】，
  * 输出这些组合的下标。

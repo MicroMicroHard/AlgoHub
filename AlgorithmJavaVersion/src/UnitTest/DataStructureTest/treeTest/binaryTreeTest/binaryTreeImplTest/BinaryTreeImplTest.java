@@ -5,7 +5,7 @@ import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-18 18:47
  * @description 二叉树 ： 判断两个二叉树相等
  */

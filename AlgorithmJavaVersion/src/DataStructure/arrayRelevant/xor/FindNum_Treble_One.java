@@ -5,11 +5,11 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/31
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 找数字
  * 在一组数中，其他每个数都只出现三次，仅有一个数，出现了一次，找出这个数。
  * 参考博客：https://blog.csdn.net/yjw19901214/article/details/83416280

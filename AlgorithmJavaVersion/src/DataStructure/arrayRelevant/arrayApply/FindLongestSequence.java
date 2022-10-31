@@ -8,10 +8,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/5/15
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @blogURL https://leetcode-cn.com/problems/longest-consecutive-sequence/
  * @description 找出数字连续的最长序列
  * 最长递增序列长度

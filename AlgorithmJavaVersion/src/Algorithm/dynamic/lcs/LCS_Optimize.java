@@ -4,10 +4,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 上午10:52:22
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description lcs改进算法，只需一行数组即可以获取匹配数最大值，节省了空间，
  * 但是无法获取匹配匹配的字符串。
  */

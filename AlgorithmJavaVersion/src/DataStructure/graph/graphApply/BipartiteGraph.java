@@ -4,10 +4,10 @@ import DataStructure.graph.EdgeNode;
 import DataStructure.graph.VertexNode;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-25 21:08
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 二分图
  * 给你一幅「图」，请你用两种颜色将图中的所有顶点着色，且使得任意一条边的两个端点的颜色都不相同
  * @blogURL https://mp.weixin.qq.com/s/b1WM7hMNik75E-f_2T7QEw

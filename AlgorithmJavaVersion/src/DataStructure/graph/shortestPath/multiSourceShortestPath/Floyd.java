@@ -11,10 +11,10 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-25 21:11
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 弗洛伊德算法 Floyd
  * 用来求解赋权图中每对顶点间的最短距离 以及 输出任意两点之间最短路径
  * Let us create the following weighted graph

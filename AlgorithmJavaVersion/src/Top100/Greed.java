@@ -4,11 +4,11 @@ import Algorithm.greedy.JumpGame;
 import Algorithm.greedy.WildCard;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/12/7
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 贪心算法
  */
 public interface Greed {

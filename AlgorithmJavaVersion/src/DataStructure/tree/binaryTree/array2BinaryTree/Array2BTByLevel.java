@@ -9,10 +9,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/14 12:13
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 按层次遍历的方式输入的数组
  * 构造成一个二叉树（特殊符号）【递归、非递归解法】
  * @attation 按行构造二叉树，只能是满二叉树的数组才可以

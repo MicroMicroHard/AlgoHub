@@ -1,11 +1,11 @@
 package DataStructure.arrayRelevant.findValue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/29
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 在矩阵中查找给定值，并返回其坐标
  * 解题思路：首先选定矩阵的右上角元素：A，
  * 如果A小于给定值，则排除了A所在的行，

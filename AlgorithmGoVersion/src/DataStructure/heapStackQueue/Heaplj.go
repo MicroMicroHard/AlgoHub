@@ -5,7 +5,7 @@ package heapStackQueue
  * @version 1.0
  * @date 2020/7/14
  * @author—Email micromicrohard@outlook.com
- * @blogURL https://blog.csdn.net/ljfirst
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 堆的基本用法
  * 1、元素入堆            {@link Heaplj#push}
  * 2、元素出堆            {@link Heaplj#pop}

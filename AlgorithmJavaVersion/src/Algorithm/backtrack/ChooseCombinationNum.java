@@ -7,10 +7,10 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/5/21 14:06
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 给 一组数，可能有重复数字，从中选取 n 个不重复的数字出来
  * 输出所有的组合
  * @blogURL

@@ -4,10 +4,10 @@ import DataStructure.heapStackQueue.stack.effectBrackets.EffectBrackets;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-30 01:14
- * @authorEmail ljfirst@mail.ustc.edu.cn
+ * @authorEmail micromicrohard@outlook.com
  * @description 
  * @blogURL
  */

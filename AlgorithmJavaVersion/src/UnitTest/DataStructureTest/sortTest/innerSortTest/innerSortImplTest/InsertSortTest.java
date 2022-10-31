@@ -13,10 +13,10 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-11 15:12
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 插入排序的测试案例
  * @blogURL
  */

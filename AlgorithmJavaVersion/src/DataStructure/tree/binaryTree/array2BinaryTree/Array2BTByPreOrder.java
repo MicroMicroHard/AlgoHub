@@ -8,10 +8,10 @@ import org.junit.Test;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/14 12:14
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 将按先序遍历的方式输入的数组
  * 根据先序遍历的数组(带符号)，构造成一个二叉树（特殊符号）【递归、非递归解法】
  * @blogURL

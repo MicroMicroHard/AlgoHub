@@ -5,10 +5,10 @@ import Top100.Dynamic;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:36
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最大子段和 动态规划
  * LargestSumofSubSequence by dynamic
  * 给定一个数组，求这个数组的连续子数组中，最大的那一段的和

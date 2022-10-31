@@ -5,11 +5,11 @@ import Algorithm.comprehensive.optimalSchedule.OptimalSchedule_BackTrack;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/11/20
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 测试 最佳调度问题
  */
 public class OptimalSchedule_BackTrackTest extends OptimalScheduleTest{

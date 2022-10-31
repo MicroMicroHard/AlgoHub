@@ -3,11 +3,11 @@ package DataStructure.arrayRelevant.arrayApply;
 import Top100.HoldWater;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/1
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 盛水问题
  * 给定 n 个非负整数 x1,x2,x3...，每个数代表坐标中的一个点 (i,xi)。
  * 在坐标内画 n 条竖直线，竖直线 i 的两个端点分别为(i,0)和(i,xi)。找出其中的两条线，

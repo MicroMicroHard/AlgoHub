@@ -5,10 +5,10 @@ import Common.Utils.ArrayTools;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 下午03:07:41
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 矩阵顺时针反转 测试案例
  */
 

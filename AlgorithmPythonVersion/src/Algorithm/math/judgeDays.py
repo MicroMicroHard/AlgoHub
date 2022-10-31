@@ -1,6 +1,6 @@
 """
  * @Class: judgeDays 
- * @author: liujun
+ * @author: micromicrohard
  * @date: 2022/5/2220:55
  * @author—Email: ljfirst@mail.ustc.edu.cn
  * @description: 输入某年某月某日，判断这一天是这一年的第几天？

@@ -3,10 +3,10 @@ package DataStructure.tree.binaryTree.binaryTreeApply;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-23 02:54:10
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 查找最近公共父节点/最近公共祖先
  * 思路一
  * 思路二

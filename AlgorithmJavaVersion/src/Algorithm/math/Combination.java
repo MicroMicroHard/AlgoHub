@@ -4,10 +4,10 @@ import Top100.Mathlj;
 import Common.Constant.C;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/5/21 14:32
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 数学组合数
  * @blogURL
  */

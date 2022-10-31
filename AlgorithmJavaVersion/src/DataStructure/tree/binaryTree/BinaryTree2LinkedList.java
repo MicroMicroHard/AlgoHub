@@ -3,11 +3,11 @@ package DataStructure.tree.binaryTree;
 import DataStructure.list.Listlj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/11/4
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 二叉树转链表
  */
 public interface BinaryTree2LinkedList {

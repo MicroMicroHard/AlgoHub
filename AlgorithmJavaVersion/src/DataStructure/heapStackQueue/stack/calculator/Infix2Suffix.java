@@ -9,10 +9,10 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/20 7:16 PM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 中缀转后缀
  */
 public class Infix2Suffix {

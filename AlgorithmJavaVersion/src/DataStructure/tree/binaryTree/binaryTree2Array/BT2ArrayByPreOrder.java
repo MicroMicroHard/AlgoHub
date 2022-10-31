@@ -10,10 +10,10 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/14 12:09
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 先序 遍历二叉树 输出数组【递归、单栈】
  * @blogURL
  */

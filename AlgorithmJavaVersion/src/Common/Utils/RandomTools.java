@@ -3,10 +3,10 @@ package Common.Utils;
 import java.util.Random;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-02 23:30
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 
  */
 public class RandomTools {

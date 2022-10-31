@@ -2,10 +2,10 @@ package DataStructure.arrayRelevant.arrayApply;
 
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-8 下午07:03:55
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 大小写互换
  * 将输入字符串的大小写互换，输出时小写字母按序排在前，大写在后。
  */

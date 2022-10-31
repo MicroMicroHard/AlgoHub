@@ -4,10 +4,10 @@ import Algorithm.math.*;
 import DataStructure.arrayRelevant.arrayApply.PoolPig;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/5/15
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @blogURL https:blog.csdn.net/ljfirst
  * @description 数学相关的题目
  */

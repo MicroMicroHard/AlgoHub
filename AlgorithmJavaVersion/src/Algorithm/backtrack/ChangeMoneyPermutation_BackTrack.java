@@ -10,10 +10,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:42
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 换零钱 【排列问题】
  * 给定不同面额的硬币 array 和一个总金额 target。编写一个函数来计算可以凑成总金额 所有可能的情况。
  * 如果没有任何一种硬币组合能组成总金额，返回 -1。

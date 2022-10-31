@@ -4,9 +4,9 @@ import DataStructure.stringOps.stringCompare.KMP;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 
 /**
- *@author liujun
+ *@author 蔚蔚樱
  *@date 2019-7-8 03:48:46
- *@author-Email ljfirst@mail.ustc.edu.cn
+ *@author-Email micromicrohard@outlook.com
  *@description 通过字符串的先序遍历和中序遍历能唯一确定一颗二叉树
  * 如果树和子树的先序遍历和中序遍历均是包含关系，说明该子树是这颗树的子树
  *@version 1.0

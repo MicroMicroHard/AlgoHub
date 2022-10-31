@@ -10,11 +10,11 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/15
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 数组的连续积小于等于给定值的组合
  * 求出数组中连续数的积小于等于给定值的组合，前提是不使用for循环
  * 输入：{10, 5, 2, 6}，target：100

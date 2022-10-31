@@ -3,7 +3,7 @@ from Utils.Constant.C import ErrorNum
 
 """
  * @Class: Combination 
- * @author: liujun
+ * @author: micromicrohard
  * @date: 2022/5/2220:42
  * @author—Email: ljfirst@mail.ustc.edu.cn
  * @description: 数学组合数

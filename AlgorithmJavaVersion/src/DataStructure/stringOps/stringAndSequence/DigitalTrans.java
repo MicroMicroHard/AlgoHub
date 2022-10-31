@@ -5,10 +5,10 @@ import Common.Constant.C;
 import java.util.Objects;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-5-13 Time：下午10:31:25
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description trans 人民币大小写转换 digital trans to capital
  * method:
  * 1.去空格.

@@ -13,10 +13,10 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/12 7:10 PM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 数据库工具类
  * build sql
  * insert

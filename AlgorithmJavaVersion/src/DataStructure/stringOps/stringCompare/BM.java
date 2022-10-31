@@ -4,10 +4,10 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-06 22:52
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description Boyer-Moore BM算法匹配字符串
  * @blogURL 参考博客（推荐）：https://blog.csdn.net/weixin_34419321/article/details/85595113?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
  * 参考博客：https://www.cnblogs.com/sunsky303/p/9580378.html

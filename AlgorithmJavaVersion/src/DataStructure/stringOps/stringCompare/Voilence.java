@@ -1,10 +1,10 @@
 package DataStructure.stringOps.stringCompare;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-06 22:50
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description  暴力匹配字符串
  * @blogURL
  */

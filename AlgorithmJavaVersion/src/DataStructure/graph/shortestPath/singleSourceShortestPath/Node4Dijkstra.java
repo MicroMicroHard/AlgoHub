@@ -3,10 +3,10 @@ package DataStructure.graph.shortestPath.singleSourceShortestPath;
 import DataStructure.list.Nodelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-26 00:12
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 为狄杰斯特拉 设计的链表 Node 节点
  * @blogURL
  */

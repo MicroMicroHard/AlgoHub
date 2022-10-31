@@ -1,10 +1,10 @@
 package DesignPattern.single;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-17 18:30
- * @Email ljfirst@mail.ustc.edu.cn
+ * @Email micromicrohard@outlook.com
  * @description
  * single pattern desing for this situation:just provider an instance for Class.
  * @HungrySinglePattern creates an instance object when

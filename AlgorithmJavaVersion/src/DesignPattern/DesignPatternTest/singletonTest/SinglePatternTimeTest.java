@@ -3,10 +3,10 @@ package DesignPattern.DesignPatternTest.singletonTest;
 import DesignPattern.single.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-4-22 Time������12:04:32
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description
  *      1.SinglePattern
  *      2.HungrySinglePattern

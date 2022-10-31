@@ -3,10 +3,10 @@ package Algorithm.dynamic;
 import Common.Utils.MathTools;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:44
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 给定一个二维数组，其保存了一个数字三角形 triangleMatrix[] []，
  * 求从数字三角形顶端到底端各数字和最小的路径之和，每次可以向下走相邻的两个位置
  * @blogURL

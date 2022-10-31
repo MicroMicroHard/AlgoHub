@@ -4,11 +4,11 @@ package DataStructure.arrayRelevant.doublePoint;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/1
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description n数之和
  * 给定一个数 target，在一维数组中，找出某 n 个数相加得 target。
  * 要求一：如果存在这个 n 个数，返回true，反则返回false。

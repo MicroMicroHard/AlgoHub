@@ -1,11 +1,11 @@
 package DataStructure.stringOps.stringCompare;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-7-8 04:57:00
- * @author-Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst/article/details/95072616
+ * @author-Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard/article/details/95072616
  * @description KMP 字符串匹配算法
  */
 public class KMP implements StringCompare {

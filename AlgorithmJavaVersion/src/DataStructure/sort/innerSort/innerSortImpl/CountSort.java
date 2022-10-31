@@ -7,10 +7,10 @@ import DataStructure.sort.innerSort.ArraySortINTF;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-23 12:10:15
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 计数排序
  */
 public class CountSort implements ArraySortINTF {

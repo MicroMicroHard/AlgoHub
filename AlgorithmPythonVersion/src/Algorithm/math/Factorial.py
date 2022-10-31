@@ -2,7 +2,7 @@ from Utils.Constant.C import ErrorNum
 
 """
  * @Class: Factorial 
- * @author: liujun
+ * @author: micromicrohard
  * @date: 2022/5/2220:07
  * @author—Email: ljfirst@mail.ustc.edu.cn
  * @description: 阶乘

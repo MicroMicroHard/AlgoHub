@@ -3,7 +3,7 @@ package heapStackQueue
 /**
  * @author 蔚蔚樱
  * @date 2021-11-23 22:01
- * @author-Email 蔚蔚樱first@outlook.com
+ * @author-Email micromicrohard@outlook.com
  * @description 队列的基本方法
  * 1、元素入队
  * 2、元素出队

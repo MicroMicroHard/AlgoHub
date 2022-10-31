@@ -4,8 +4,8 @@ package innerSortImpl
  * @author 蔚蔚樱
  * @version 1.0
  * @date 2021-06-20 13:09
- * @author—Email 蔚蔚樱first@outlook.com
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 选择排序
  */
 

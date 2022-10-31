@@ -4,11 +4,11 @@ import DataStructure.list.listRealize.TheLastKImpl;
 import DataStructure.heapStackQueue.heap.ReturnKthMin;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/12/7
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 操作第K个值
  */
 

@@ -1,10 +1,10 @@
 package DataStructure.arrayRelevant.findValue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-01-08 14:01
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 数组单调递增然后单调递减，输出元素中不同的个数，
  * 要求：数组原址，不能改变数组元素和顺序，空间复杂度：O(1)
  * @blogURL

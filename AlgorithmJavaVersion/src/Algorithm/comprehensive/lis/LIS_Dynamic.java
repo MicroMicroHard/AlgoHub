@@ -8,10 +8,10 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-10-27 22:04
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最长递增子序列 动态规划法 LongestIncreasingSubsequence
  * 在一个给定的数值序列中，找到一个子序列，使得这个子序列元素的数值依次递增，并且这个子序列的长度尽可能地大。
  * 最长递增子序列中的元素在原序列中不一定是连续的

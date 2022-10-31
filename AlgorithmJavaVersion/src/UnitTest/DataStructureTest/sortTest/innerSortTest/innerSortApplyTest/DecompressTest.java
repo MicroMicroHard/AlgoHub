@@ -4,10 +4,10 @@ import DataStructure.sort.innerSort.innerSortApply.Decompress;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-9-5 下午08:35:45
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description  将一段压缩后的字符串解压缩，并且排序输出。
  * 解压：字符串后续跟着的数字表示该字符串需要重复几次。
  * 排序：若相同的数字，如“c2a2”,按照ASCII编码排序，应输出“aacc”

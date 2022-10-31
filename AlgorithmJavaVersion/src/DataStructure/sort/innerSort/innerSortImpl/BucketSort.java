@@ -8,10 +8,10 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-22 05:03:35
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 桶排序
  * 首先定义桶的数量
  * 将数组按照桶的数量，分成若干堆

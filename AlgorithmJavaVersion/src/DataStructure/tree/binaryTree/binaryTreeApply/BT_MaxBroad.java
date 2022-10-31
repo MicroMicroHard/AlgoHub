@@ -6,10 +6,10 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/19
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @blogURL https://leetcode-cn.com/problems/maximum-width-of-binary-tree/
  * @description 662. 二叉树最大宽度
  * 给定一个二叉树，编写一个函数来获取这个树的最大宽度。树的宽度是所有层中的最大宽度。

@@ -8,11 +8,11 @@ import Algorithm.dynamic.CombinationNum_NonRepeat_Dynamic;
 import DataStructure.stringOps.slidingWindow.Combination_Sliding;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/15
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 排列组合问题
  * 全排列问题
  */

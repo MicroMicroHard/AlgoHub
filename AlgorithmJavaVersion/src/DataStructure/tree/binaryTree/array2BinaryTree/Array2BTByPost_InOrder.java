@@ -5,10 +5,10 @@ import DataStructure.tree.binaryTree.BinaryTreeImpl;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/14 12:15
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 已知后序遍历序列和中序遍历序列，
  * 构建唯一一棵确定的二叉树。【递归、非递归解法】
  * @blogURL

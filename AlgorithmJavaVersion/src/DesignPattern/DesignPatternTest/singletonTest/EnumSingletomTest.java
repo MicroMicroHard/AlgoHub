@@ -4,10 +4,10 @@ import DesignPattern.single.EnumSingletom;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-17 18:32
- * @Email ljfirst@mail.ustc.edu.cn
+ * @Email micromicrohard@outlook.com
  * @description
  * @blogURL
  */

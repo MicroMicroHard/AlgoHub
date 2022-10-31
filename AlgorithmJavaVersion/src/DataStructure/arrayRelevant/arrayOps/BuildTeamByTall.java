@@ -5,11 +5,11 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/28
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 根据身高重建队列
  * 假设有打乱顺序的一群人站成一个队列。 每个人由一个整数对(h, k)表示，
  * 其中h是这个人的身高，k是排在这个人前面且身高大于或等于h的人数。

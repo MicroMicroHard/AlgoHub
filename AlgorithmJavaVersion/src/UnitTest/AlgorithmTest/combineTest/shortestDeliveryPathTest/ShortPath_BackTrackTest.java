@@ -5,10 +5,10 @@ import Algorithm.comprehensive.shortestDeliveryPath.ShortPath_BackTrack;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-11 16:08
- * @author—Email  ljfirst@mail.ustc.edu.cn
+ * @author—Email  micromicrohard@outlook.com
  * @description  送货最短路径_回溯算法_UT ShortestDeliveryPath
  * @blogURL
  */

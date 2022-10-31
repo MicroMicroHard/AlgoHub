@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-29 10:29:42
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 红黑树
  * 1、插入 put(int key, int value)(是否去重)
  * 2、删除 remove(int key)

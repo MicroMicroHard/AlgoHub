@@ -5,10 +5,10 @@ import Top100.ChangeMoney;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:42
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 换零钱
  * 给定一个数组，数组内数字随意组合【不可以重复选取】，是否可以凑出乘积等于target的组合
  * 示例 1:

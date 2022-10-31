@@ -4,10 +4,10 @@ import DataStructure.arrayRelevant.findValue.FindDiffinMonotonousArray;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-01-08 14:03
- * @authorEmail ljfirst@mail.ustc.edu.cn
+ * @authorEmail micromicrohard@outlook.com
  * @description
  * @blogURL
  */

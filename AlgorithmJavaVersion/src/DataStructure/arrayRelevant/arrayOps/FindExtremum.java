@@ -3,11 +3,11 @@ package DataStructure.arrayRelevant.arrayOps;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/9/3
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 寻找极值
  * 获取最大值：有一个整数数组，请求出两两之差绝对值最大的值
  * 获取最小值：有一个整数数组，请求出两两之差绝对值最小的值

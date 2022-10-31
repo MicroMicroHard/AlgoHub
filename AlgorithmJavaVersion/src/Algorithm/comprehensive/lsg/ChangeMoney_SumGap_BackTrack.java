@@ -4,10 +4,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:42
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 换零钱【LSG问题】
  * 给定不同面额的硬币 array 和一个总金额 target。
  * 如果限制随意组合，仅能选取间隔的钱币，那么是否还能凑出target表示金额

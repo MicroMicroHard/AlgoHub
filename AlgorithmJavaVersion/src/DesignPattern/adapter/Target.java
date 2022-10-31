@@ -1,10 +1,10 @@
 package DesignPattern.adapter;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-1-24 ����06:25:09
- * @authorEmail ljfirst@mail.ustc.edu.cn
+ * @authorEmail micromicrohard@outlook.com
  * @description
  * @blogURL
  */

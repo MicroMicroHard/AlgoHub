@@ -1,10 +1,10 @@
 package Algorithm.dynamic.palindrome;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/7/5 23:38
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 找出回文串
  * 在给定字符串中，找出最长的连续回文串
  * 暴力法{@link Palindrome_Find#findMethod_violence}

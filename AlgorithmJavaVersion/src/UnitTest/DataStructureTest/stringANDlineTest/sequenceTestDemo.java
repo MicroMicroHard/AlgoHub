@@ -3,10 +3,10 @@ package UnitTest.DataStructureTest.stringANDlineTest;
 import DataStructure.stringOps.stringCompare.StringCompare;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-05 21:17
- * @author��Email  ljfirst@mail.ustc.edu.cn
+ * @author��Email  micromicrohard@outlook.com
  * @description 
  * @blogURL
  */

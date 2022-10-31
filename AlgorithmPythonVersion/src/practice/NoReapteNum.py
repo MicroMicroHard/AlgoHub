@@ -2,7 +2,7 @@ import itertools
 
 """
  * @Class: TaxCalculation
- * @author: liujun
+ * @author: micromicrohard
  * @date: 2022/5/1422:43
  * @author—Email: ljfirst@mail.ustc.edu.cn
  * @description: 排列组合 C43

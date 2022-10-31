@@ -6,10 +6,10 @@ import DataStructure.list.Nodelj;
 import java.util.Random;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-7-25 11:59:31
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 跳表
  * 支持：
  * <p>

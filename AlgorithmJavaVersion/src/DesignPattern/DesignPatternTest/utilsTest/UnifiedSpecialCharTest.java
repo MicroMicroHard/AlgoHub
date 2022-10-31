@@ -1,10 +1,10 @@
 package DesignPattern.DesignPatternTest.utilsTest;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date£º 2019-11-07 20:25
- * @author¡ªEmail:ljfirst@mail.ustc.edu.cn
+ * @author¡ªEmail:micromicrohard@outlook.com
  * @description 
  */
 public class UnifiedSpecialCharTest {

@@ -7,11 +7,11 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/20
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 2数之和
  * 给定一个数 target，在一维数组中，找出某 2 个数相加与 target最相近
  * 要求一：如果存在这个 2 个数，返回true，反则返回false。

@@ -7,8 +7,8 @@ import DataStructure.stringOps.LNS.LNRSubstringByQueue;
 import org.junit.Test;
 
 /**
- * @author liujun
- * @author Email ljfirst@mail.ustc.edu.cn
+ * @author 蔚蔚樱
+ * @author Email micromicrohard@outlook.com
  * @version 1.0
  * @date 2019-11-06 00:06
  * @description 单元测试： 最长无重复子串

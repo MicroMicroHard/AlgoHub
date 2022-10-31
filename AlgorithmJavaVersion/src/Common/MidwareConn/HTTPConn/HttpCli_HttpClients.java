@@ -15,10 +15,10 @@ import org.apache.hc.core5.util.Timeout;
 import java.io.IOException;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/4/10 19:04
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description
  * @blogURL
  */

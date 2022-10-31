@@ -1,10 +1,10 @@
 package DataStructure.arrayRelevant.arrayOps;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-12-17 下午05:30:46
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 买卖股票的最佳时机
  * 给定一个数组，它的第 i 个元素是一支给定股票第 i 天的价格。
  * 如果你最多只允许完成一笔交易（即买入和卖出一支股票），

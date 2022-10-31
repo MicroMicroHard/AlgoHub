@@ -6,10 +6,10 @@ import DataStructure.list.Nodelj;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/10 16:58
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 求有序数组旋转后的指定值的索引
  *  * 一个有序数组，比如[1,2,3,4,5,6,7],后面部分被替换到前面，比如[5,6,7,1,2,3,4],找出替换后的数组的最大值
  *  * 一个有序数组，比如[1,2,3,4,5,6,7],后面部分被替换到前面，比如[5,6,7,1,2,3,4],找出替换后的数组的最小值

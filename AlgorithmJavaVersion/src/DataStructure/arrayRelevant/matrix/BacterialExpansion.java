@@ -3,11 +3,11 @@ package DataStructure.arrayRelevant.matrix;
 import java.util.Scanner;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/20
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 细菌扩展
  * 二维矩阵中1表示一个细菌，每分钟，细菌会向上下左右扩展一次，
  * 问多少分钟后，整个二维数组全部被细菌覆盖满

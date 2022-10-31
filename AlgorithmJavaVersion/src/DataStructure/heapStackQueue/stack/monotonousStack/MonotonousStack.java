@@ -4,11 +4,11 @@ import DataStructure.heapStackQueue.stack.ArrayStacklj;
 import DataStructure.heapStackQueue.Stacklj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/9/4
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 单调栈 下一个更大元素
  * 给你一个数组，返回一个等长的数组，对应索引存储着下一个更大元素，如果没有更大的元素，就存 -1.
  * 另一道相似题目：https://leetcode-cn.com/problems/daily-temperatures/

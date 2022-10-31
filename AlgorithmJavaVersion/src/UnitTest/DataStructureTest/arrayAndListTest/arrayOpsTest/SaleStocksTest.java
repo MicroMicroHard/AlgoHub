@@ -4,10 +4,10 @@ import DataStructure.arrayRelevant.arrayOps.SaleStocks;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-08 19:41
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 买卖股票的最佳时机 测试案例
  * @blogURL
  */

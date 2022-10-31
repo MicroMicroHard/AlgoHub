@@ -4,11 +4,11 @@ import DataStructure.arrayRelevant.xor.FindDiffNum;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/25
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 找出不同的数 测试案例
  * 1、一个长度为99的数组，数据范围是1-100，数组内数据均不重复，找出丢失的那个数
  * 2、一个长度为100的数组，共100个数，99个不同，找出那个相同的数

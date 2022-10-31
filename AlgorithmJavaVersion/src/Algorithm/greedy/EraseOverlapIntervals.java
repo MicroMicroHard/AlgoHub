@@ -4,11 +4,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/8
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 无重叠区间
  * 给定一个区间的集合，找到需要移除区间的最小数量，使剩余区间互不重叠
  * 举个例子，array=[[1,3],[2,4],[3,6]]，这些区间最多有两个区间互不相交，即[[1,3],[3,6]]，

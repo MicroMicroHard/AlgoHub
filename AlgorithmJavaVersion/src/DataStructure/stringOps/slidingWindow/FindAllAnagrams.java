@@ -8,11 +8,11 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/23
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 找所有字母异位词 找到源串中所有目标串的连续排列
  * 输入一个源串S，一个目标串T，找到S中所有T的连续排列，返回它们的起始索引
  * 输入：从 "2a41b156d3c24d" 中找出 "1234"

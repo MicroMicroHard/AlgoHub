@@ -1,10 +1,10 @@
 package DataStructure.arrayRelevant.xor;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-01-14 14:22
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 找出不同的数
  * 1、一个长度为99的数组，数据范围是1-100，数组内数据均不重复，找出丢失的那个数
  * 2、一个长度为100的数组，共100个数，99个不同，找出那个相同的数

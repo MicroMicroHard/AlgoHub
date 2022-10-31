@@ -4,11 +4,11 @@ import Algorithm.backtrack.PredictTheWinner_BackTrack;
 import Top100.Dynamic;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/14
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 预测赢家 动态规划法
  * 给你一个整数数组 nums 。玩家 1 和玩家 2 基于这个数组设计了一个游戏。
  * 玩家 1 和玩家 2 轮流进行自己的回合，玩家 1 先手。开始时，两个玩家的初始分值都是 0 。

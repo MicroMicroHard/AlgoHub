@@ -3,10 +3,10 @@ package DataStructure.heapStackQueue.queue;
 import DataStructure.heapStackQueue.DeQueuelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/4/6 12:08
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 数组实现 双端队列
  * @blogURL
  */

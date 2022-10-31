@@ -1,10 +1,10 @@
 package Algorithm.comprehensive.lmg;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-12 09:37
- * @author—Email liujunfirst@outlooChoseNum.com
+ * @author—Email micromicrohardfirst@outlooChoseNum.com
  * @description 合唱团
  * 有 n 个学生站成一排，每个学生有一个能力值，牛牛想从这 n个学生中
  * *按照顺序选取 ChoseNum名学生，要求相邻两个学生的位置编号的差不超过 d，

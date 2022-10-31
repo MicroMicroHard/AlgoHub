@@ -6,10 +6,10 @@ import DataStructure.list.Nodelj;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-07 18:17
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 双向链表
  * 1、插入（批量插入、指定位置插入）
  * 2、删除（删除元素、删除指定位置的元素）

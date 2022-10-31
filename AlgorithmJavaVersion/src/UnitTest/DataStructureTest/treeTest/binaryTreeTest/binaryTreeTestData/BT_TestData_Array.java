@@ -3,11 +3,11 @@ package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData;
 import Common.Constant.C;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/1/25
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 二叉树 数组形式
  */
 

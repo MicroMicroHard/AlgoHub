@@ -4,11 +4,11 @@ import DataStructure.stringOps.stringAndSequence.MinCyclicsubString;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/19
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 最小循环字符串 测试案例
  */
 public class MinCyclicsubStringTest {

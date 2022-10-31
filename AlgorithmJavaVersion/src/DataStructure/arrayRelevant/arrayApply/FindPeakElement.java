@@ -2,10 +2,10 @@ package DataStructure.arrayRelevant.arrayApply;
 
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-8 下午07:03:55
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @blogURL https://leetcode-cn.com/problems/find-peak-element/
  * @description 寻找峰值
  * 峰值元素是指其值严格大于左右相邻值的元素。

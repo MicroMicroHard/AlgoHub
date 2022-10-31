@@ -3,11 +3,11 @@ package DataStructure.arrayRelevant.doublePoint;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/10/10
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 去除指定元素
  * 给定数组，去除指定元素，返回不含指定元素的数组
  */

@@ -9,7 +9,7 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-20 11:41
  * @description 计算二叉树中最大的子树路径和 测试案例
  */

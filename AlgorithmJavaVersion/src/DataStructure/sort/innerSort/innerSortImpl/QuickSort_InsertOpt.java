@@ -5,10 +5,10 @@ import org.junit.Test;
 import DataStructure.sort.innerSort.ArraySortINTF;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-23 下午12:08:37
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 采用插入法来优化快速排序
  * @URL
  */

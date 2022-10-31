@@ -6,7 +6,7 @@ import DataStructure.tree.binaryTree.BinaryTreeImpl;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-18 18:46
  * @description 按层：
  * 1、按层遍历二叉树 输出数组（队列）{@link BinaryTree2ArrayImpl#BT2ArrayByLevelOutput}

@@ -30,10 +30,10 @@ import java.sql.SQLException;
 import static Common.Utils.UTFactory.strTools;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/7/10 23:48
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 1、打印测试数据
  * 2、插入测试数据
  * @blogURL

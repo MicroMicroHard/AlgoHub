@@ -6,11 +6,11 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/23
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 子串检测
  * 一个S和一个P，请问你S中是否存在一个子串，包含P中所有字符且不包含其他字符
  * <p>

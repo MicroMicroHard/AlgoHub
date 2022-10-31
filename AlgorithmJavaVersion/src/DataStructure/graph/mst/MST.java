@@ -3,10 +3,10 @@ package DataStructure.graph.mst;
 import DataStructure.graph.GraphNode;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-27 00:15
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 最小生成树 (Minimum Spanning Tree)
  * @blogURL
  */

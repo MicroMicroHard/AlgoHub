@@ -5,11 +5,11 @@ import UnitTest.AlgorithmTest.combineTest.sumofSubSequenceTest.LargestValueTestD
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/27
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 最大子段乘积(连续)
  * 给定一个数组，求出这个数组最大连续的子段乘积
  * 输入：{5, -4, 3, 4, 9}

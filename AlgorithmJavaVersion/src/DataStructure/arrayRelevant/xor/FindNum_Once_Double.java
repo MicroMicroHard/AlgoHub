@@ -8,11 +8,11 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/9/1
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 找数字
  * 在一组数中，其他每个数都只出现一次，仅有一个数，出现了两次，找出这个数。
  */

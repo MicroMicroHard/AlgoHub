@@ -1,10 +1,10 @@
 package Algorithm.comprehensive.shortestDeliveryPath;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-11 14:36
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 送货最短路径 接口 ShortestDeliveryPath
  * 如图，某物流派送员p，需要给a、b、c、d4个快递点派送包裹， 请问派送员需要选择什么的路线，才能完成最短路程的派送。
  * 假设如图派送员的起点坐标(0,0)，派送路线只能沿着图中的方格边行驶，每个小格都是正方形，且边长为1，如p到d的距离就是4。

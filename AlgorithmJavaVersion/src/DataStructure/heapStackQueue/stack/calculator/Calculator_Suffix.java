@@ -7,11 +7,11 @@ import org.junit.Test;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/17
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 后缀表达式 计算器
  * 1、只能做后缀表达式计算
  * 2、表达式没有做合规性校验

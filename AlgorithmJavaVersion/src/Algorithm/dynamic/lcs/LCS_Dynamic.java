@@ -5,10 +5,10 @@ import Top100.Dynamic;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 Time：上午10:15:35
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description LCS算法，找出两个字符串最大匹配子串。
  */
 

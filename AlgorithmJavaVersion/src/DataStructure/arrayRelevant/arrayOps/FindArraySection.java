@@ -4,11 +4,11 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/5
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 查找给定值的数组区间
  * 给定一个按照升序排列的整数数组 nums，和一个目标值 target。
  * 找出给定目标值在数组中的开始位置和结束位置。

@@ -7,10 +7,10 @@ import org.junit.Test;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/18 20:49
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 座位的最大利用率
  * 一列具有m个座位的火车，从起点到终点共停靠n个站点，站点编号从0到n-1发车前有x名乘客预定了座位，
  * 因为预定数量可能超出座位数，为了保证效率最大化，请计算如何分配才能是座位利用率最大，并输出最大的座位利用数。

@@ -4,10 +4,10 @@ import DataStructure.arrayRelevant.arrayApply.PoolPig;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-03 20:09
- * @author-Email  ljfirst@mail.ustc.edu.cn
+ * @author-Email  micromicrohard@outlook.com
  * @description 充分利用二进制转换
  * 假设有n只水桶，猪饮水中毒后会在m分钟内死亡，你需要多少猪（x）就能在p分钟内找出 “有毒” 水桶？
  * 这n只水桶里有且仅有一只有毒的桶。

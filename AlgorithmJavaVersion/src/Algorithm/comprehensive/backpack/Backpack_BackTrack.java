@@ -3,10 +3,10 @@ package Algorithm.comprehensive.backpack;
 import Top100.BackTrack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 上午11:56:26
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 背包问题 回溯法
  * 回溯法、分支限界法、剪枝法
  */

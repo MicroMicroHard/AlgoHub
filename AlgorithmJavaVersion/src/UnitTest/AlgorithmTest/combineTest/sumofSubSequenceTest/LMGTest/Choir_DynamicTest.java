@@ -4,10 +4,10 @@ import Algorithm.comprehensive.lmg.Choir_Backtrack;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-12 09:37
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 合唱团 测试案例
  * @blogURL
  */

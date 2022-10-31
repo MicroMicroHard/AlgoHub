@@ -4,10 +4,10 @@ import DataStructure.sort.innerSort.innerSortApply.HalfPastNum;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-15 00:56
- * Email ljfirst@mail.ustc.edu.cn
+ * Email micromicrohard@outlook.com
  * @description 
  * @blogURL
  */

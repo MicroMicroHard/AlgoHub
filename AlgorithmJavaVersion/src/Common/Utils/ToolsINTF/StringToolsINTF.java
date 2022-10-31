@@ -7,10 +7,10 @@ import DataStructure.tree.binaryTree.BinaryTreeImpl;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/10 11:29
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description Format、Replace、Check
  * trans params
  * Recognize params

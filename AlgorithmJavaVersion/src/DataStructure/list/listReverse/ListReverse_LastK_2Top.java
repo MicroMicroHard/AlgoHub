@@ -6,11 +6,11 @@ import Top100.Reversal;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/12/7
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 反转链表最后几个数到最前方
  * 输入： 1, 2, 3, 4, 5  ，反转 k : 2
  * 输出： 5, 4, 1, 2, 3

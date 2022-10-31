@@ -4,10 +4,10 @@ import Common.Constant.C;
 import Top100.Calculator;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-09 12:53
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 计算器 测试用例
  * 测试用例包括：
  * 1、只带加减的表达式     【仅包括：加减】                  testOnlySumSub

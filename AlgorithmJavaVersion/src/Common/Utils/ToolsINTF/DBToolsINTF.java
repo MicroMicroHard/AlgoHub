@@ -5,10 +5,10 @@ import Common.MidwareConn.DBConn.MYSQLConn.UTDataEntity;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/11 23:40
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description build sql
  * insert
  * query

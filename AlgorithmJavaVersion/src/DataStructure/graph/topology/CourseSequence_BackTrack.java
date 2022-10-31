@@ -7,10 +7,10 @@ import org.junit.Test;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/18 13:09
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 现在总共有 numCourses门课需要选，记为 0 到 numCourses-1。
  * 给定一个数组prerequisites ，它的每一个元素 prerequisites[i] 表示两门课程之间的先修顺序。
  * 例如 prerequisites[i] = [ai, bi]表示想要学习课程 ai，需要先完成课程 bi。

@@ -5,10 +5,10 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-27 下午09:37:31
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description
  */
 public class NoRepeatRandomNo {

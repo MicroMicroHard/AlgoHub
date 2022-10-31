@@ -10,10 +10,10 @@ import org.junit.Test;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-23 上午09:56:39
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 数组全排列
  * 给定一个可包含重复数字的序列 nums ，按任意顺序 返回所有不重复的全排列。
  * 输入：[1、2、3]

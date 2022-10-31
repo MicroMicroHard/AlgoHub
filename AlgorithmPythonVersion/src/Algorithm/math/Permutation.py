@@ -3,7 +3,7 @@ from Utils.Constant.C import ErrorNum
 
 """
  * @Class: Permutation 
- * @author: liujun
+ * @author: micromicrohard
  * @date: 2022/5/2220:23
  * @author—Email: ljfirst@mail.ustc.edu.cn
  * @description: 数学 排列数

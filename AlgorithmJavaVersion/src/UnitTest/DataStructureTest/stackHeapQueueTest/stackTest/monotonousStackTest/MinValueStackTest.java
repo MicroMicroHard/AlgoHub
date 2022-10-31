@@ -5,10 +5,10 @@ import DataStructure.heapStackQueue.stack.monotonousStack.MinValueStack;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-09 12:52
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description
  */
 public class MinValueStackTest {

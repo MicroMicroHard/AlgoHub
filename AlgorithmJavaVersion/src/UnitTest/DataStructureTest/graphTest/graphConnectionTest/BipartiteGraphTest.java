@@ -5,10 +5,10 @@ import UnitTest.DataStructureTest.graphTest.GraphTestData;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/7 4:21 PM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description
  */
 public class BipartiteGraphTest extends GraphTestData {

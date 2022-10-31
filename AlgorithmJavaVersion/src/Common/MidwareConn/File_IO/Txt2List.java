@@ -6,10 +6,10 @@ import java.io.FileReader;
 import java.util.ArrayList;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-10-22 16:03
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description read txt to list
  */
 public class Txt2List {

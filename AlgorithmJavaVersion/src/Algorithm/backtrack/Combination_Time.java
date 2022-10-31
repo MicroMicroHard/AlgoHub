@@ -5,10 +5,10 @@ import Top100.BackTrack;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-23 上午09:56:39
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 时间的全排列
  * Given four digits, count how many valid times can be displayed on a digital clock (in 24-hour format) using those digits.
  * The earliest time is 00:00 and the latest time is 23:59.

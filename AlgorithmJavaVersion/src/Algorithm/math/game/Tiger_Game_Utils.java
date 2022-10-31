@@ -2,10 +2,10 @@ package Algorithm.math.game;
 
 import java.util.*;
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-7 ����01:45:09
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 游戏组件
  */
 

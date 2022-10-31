@@ -4,10 +4,10 @@ import java.util.HashMap;
 import java.util.LinkedHashSet;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/4
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @blogURL https://mp.weixin.qq.com/s/oXv03m1J8TwtHwMJEZ1ApQ
  * @description 最近最少使用算法
  * LFU，Least Frequently Used

@@ -1,10 +1,10 @@
 package DesignPattern.proxy;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-28 ����08:47:26
- * @Email ljfirst@mail.ustc.edu.cn
+ * @Email micromicrohard@outlook.com
  * @description ����ģʽ�����壺real
  */
 public class Real implements ProxyInterface {

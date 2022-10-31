@@ -4,11 +4,11 @@ import DataStructure.heapStackQueue.Heaplj;
 import DataStructure.heapStackQueue.Queuelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/14
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 优先队列
  */
 public class PriorityQueuelj implements Queuelj, Heaplj {

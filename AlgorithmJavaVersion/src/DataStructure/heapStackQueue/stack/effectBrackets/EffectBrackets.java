@@ -3,10 +3,10 @@ package DataStructure.heapStackQueue.stack.effectBrackets;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-30 01:13
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 判断有效括号
  * 输入一个字符串，判断是否为有效的匹配括号
  * 输入：（（（）））（）

@@ -3,11 +3,11 @@ package DataStructure.arrayRelevant.arrayTransformation;
 import Top100.Reversal;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/25
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 反转字符串
  * 例如：从$开始反转字符串："123$456789" -> "321$987654"
  * 要求：原址排序

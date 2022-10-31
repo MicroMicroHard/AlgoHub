@@ -1,10 +1,10 @@
 package Algorithm.comprehensive.shortestDeliveryPath;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-02-11 14:32
- * @author—Email  ljfirst@mail.ustc.edu.cn
+ * @author—Email  micromicrohard@outlook.com
  * @description  送货最短路径  贪心算法
  * @blogURL
  */

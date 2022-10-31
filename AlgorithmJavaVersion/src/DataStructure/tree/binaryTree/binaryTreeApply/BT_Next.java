@@ -3,10 +3,10 @@ package DataStructure.tree.binaryTree.binaryTreeApply;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-21 10:57:09
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 填充节点【非满二叉树】
  * 填充每个节点的下一个右侧节点指针 题目见链接
  * @blogURL https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/

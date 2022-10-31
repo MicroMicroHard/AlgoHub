@@ -1,10 +1,10 @@
 package DataStructure.heapStackQueue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020-01-13 21:52
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 队列的基本方法
  * 1、元素入队            {@link Queuelj#offer}
  * 2、元素出队            {@link Queuelj#poll}

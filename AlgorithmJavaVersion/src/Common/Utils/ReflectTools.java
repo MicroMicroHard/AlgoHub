@@ -15,10 +15,10 @@ import java.lang.reflect.Method;
 import java.util.*;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/13 11:47 PM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 反射处理
  * get class name、method
  * get params

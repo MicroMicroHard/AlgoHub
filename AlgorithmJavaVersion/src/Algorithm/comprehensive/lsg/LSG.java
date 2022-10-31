@@ -1,10 +1,10 @@
 package Algorithm.comprehensive.lsg;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:41
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最大间隔和
  * LSG：LargestSumOfGap
  * @blogURL

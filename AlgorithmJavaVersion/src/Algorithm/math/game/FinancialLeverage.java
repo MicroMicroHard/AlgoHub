@@ -3,10 +3,10 @@ package Algorithm.math.game;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/6/14 23:59
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description N倍率 股票
  * @blogURL
  */

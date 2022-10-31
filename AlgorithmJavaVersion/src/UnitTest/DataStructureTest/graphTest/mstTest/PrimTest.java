@@ -4,10 +4,10 @@ import DataStructure.graph.mst.Prim;
 import UnitTest.DataStructureTest.graphTest.GraphTestData;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/11 12:06 AM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 普瑞姆算法 Prim
  */
 public class PrimTest extends GraphTestData {

@@ -17,6 +17,6 @@
 
 ### 想了解更多，欢迎访问：
 
-+ 我的github:https://github.com/ljfirst/Algorithm
-+ 我的CSDN博客：https://blog.csdn.net/ljfirst
++ 我的github:https://github.com/MicroMicroHard/AlgoHub
++ 我的CSDN博客：https://blog.csdn.net/Micro_Micro_Hard
 + 我的知识图谱:https://www.processon.com/mindmap/5cbb5fcae4b09b16ffc06360

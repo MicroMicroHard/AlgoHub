@@ -3,10 +3,10 @@ package DataStructure.arrayRelevant.arrayApply;
 import java.util.Scanner;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-5-2 09:34:09
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 统计最后一个字母的长度
  */
 public class StatisticLastWordLength {

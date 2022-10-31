@@ -1,11 +1,11 @@
 package DataStructure.arrayRelevant.xor;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/31
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 找数字
  * 在一组数中，每个数都出现了两次，但是唯独有两个数，仅出现一次，找出这个数
  */

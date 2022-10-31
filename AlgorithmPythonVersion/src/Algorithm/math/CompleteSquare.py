@@ -1,6 +1,6 @@
 """
  * @Class: CompleteSquare 
- * @author: liujun
+ * @author: micromicrohard
  * @date: 2022/5/2220:48
  * @author—Email: ljfirst@mail.ustc.edu.cn
  * @description:

@@ -3,11 +3,11 @@ package DataStructure.heapStackQueue.stack.effectBrackets;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/1/29
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 判断有效括号
  * 输入一个字符串，包括（、）、*和空格 ，判断是否为有效的匹配括号
  * 输入的字符中含有 * 号，*号可以当作任意的（、）、空格

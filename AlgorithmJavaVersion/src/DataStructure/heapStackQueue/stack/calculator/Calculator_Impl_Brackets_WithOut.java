@@ -10,10 +10,10 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-5-13 10:29:49
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description Calculator 简易计算器 无括号优先级
  * 根据输入的表达式，运算出结果
  * 1、输入的表达式不需要做校验，满足正常无括号优先级表达式

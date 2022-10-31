@@ -4,11 +4,11 @@ import DataStructure.stringOps.slidingWindow.MinCoverSubstringPlus;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/21
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 单元测试： 最小覆盖子串
  * 1、要求 最小覆盖字串 中仅仅含有一个字符：[a-z]、[A-Z]
  * 2、要求 最小覆盖字串 中所以符号不能重复

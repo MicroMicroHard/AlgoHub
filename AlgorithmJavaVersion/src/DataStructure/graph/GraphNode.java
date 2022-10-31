@@ -8,10 +8,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-2 04:43:06
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @blogURL https://www.cnblogs.com/hapjin/p/4760934.html
  * https://www.jianshu.com/p/bce71b2bdbc8
  * @description 图的数据结构转换，表示图的数据结构有：邻接矩阵[GraphMatrix] 和 邻接表[GraphTable]

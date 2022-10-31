@@ -9,10 +9,10 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-10-22 16:32
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 文件名匹配
  */
 public class FileCompareTools {

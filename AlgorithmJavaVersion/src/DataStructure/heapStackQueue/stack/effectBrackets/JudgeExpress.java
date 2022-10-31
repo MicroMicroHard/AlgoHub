@@ -9,11 +9,11 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/7/30
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 判断一个表达式是否为正确的 数学运算表达式
  * （1.0）字符串是否为空串，     ->样例：null 或者 ""
  * （1.1）将string数据去空格，  ->样例： 23 + 3*5 /   2

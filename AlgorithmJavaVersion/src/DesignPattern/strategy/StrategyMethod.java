@@ -1,10 +1,10 @@
 package DesignPattern.strategy;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date  2018-8-22 ����12:10:06
- * @Email ljfirst@mail.ustc.edu.cn
+ * @Email micromicrohard@outlook.com
  * @description
  */
 public class StrategyMethod {

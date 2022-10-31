@@ -4,11 +4,11 @@ import Algorithm.dynamic.largestSquare.LargestSquare_Violence;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/3
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 最大正方形的测试案例
  */
 public class LargestSquareViolenceTest extends LargestSquareTest {

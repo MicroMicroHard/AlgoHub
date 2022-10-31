@@ -1,10 +1,10 @@
 package DataStructure.graph.graphConnect;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-9-10 下午12:23:06
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 判断名流问题
  * 给你输入一个大小为n x n的二维数组（邻接矩阵）graph表示一幅有n个节点的图，每个人都是图中的一个节点，编号为0到n - 1。
  * 如果graph[i][j] == 1代表第i个人认识第j个人，如果graph[i][j] == 0代表第i个人不认识第j个人

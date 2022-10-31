@@ -3,7 +3,7 @@ package DataStructure.tree.binaryTree;
 import DataStructure.tree.Tree;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-18 16:13
  * @description 二叉树 ： 判断两个二叉树相等（自身）
  * 二叉树 ： 判断两个二叉树相等（其他两个树）

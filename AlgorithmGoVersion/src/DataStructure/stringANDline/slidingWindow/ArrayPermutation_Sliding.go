@@ -4,8 +4,8 @@ package slidingWindow
  * @author 蔚蔚樱
  * @version 1.0
  * @date 2021/7/21
- * @author—Email 蔚蔚樱first@outlook.com
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 数组的连续积小于给定值的组合
  * 求出数组中连续数的积小于给定值的组合,使用滑动窗口
  * <p>

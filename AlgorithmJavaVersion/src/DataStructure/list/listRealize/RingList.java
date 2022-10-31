@@ -3,10 +3,10 @@ package DataStructure.list.listRealize;
 import DataStructure.list.Nodelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-22 02:06:33
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 有环链表和相交链表
  * 1、相交
  * 1.1、构造交叉链表

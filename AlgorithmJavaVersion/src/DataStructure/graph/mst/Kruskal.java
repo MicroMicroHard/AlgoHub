@@ -9,10 +9,10 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-2 04:43:06
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 克鲁斯卡尔算法 Kruskal
  */
 public class Kruskal implements MST {
@@ -70,10 +70,10 @@ public class Kruskal implements MST {
     }
 
     /**
-     * @author liujun
+     * @author 蔚蔚樱
      * @version 1.0
      * @date 2019-12-27 00:09
-     * @author-Email ljfirst@mail.ustc.edu.cn
+     * @author-Email micromicrohard@outlook.com
      * @description 克鲁斯卡尔算法的节点
      * @blogURL
      */

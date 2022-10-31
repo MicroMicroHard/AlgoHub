@@ -6,10 +6,10 @@ import Common.Utils.MathTools;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/6/25 11:07 AM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 阈值距离内邻居最少的城市
  * 有 n个城市，按从 0 到 n-1编号。给你一个边数组edges，
  * 其中 edges[i] = [fromi, toi, weighti]代表fromi和toi两个城市之间的双向加权边，距离阈值是一个整数distanceThreshold。

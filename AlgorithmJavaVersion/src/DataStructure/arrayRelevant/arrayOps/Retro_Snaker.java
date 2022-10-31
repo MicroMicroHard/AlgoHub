@@ -1,10 +1,10 @@
 package DataStructure.arrayRelevant.arrayOps;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-29 上午11:55:36
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 贪吃蛇
  * 初始状态：贪吃蛇的蛇头在坐标(0,0)处，蛇身长度为10，
  * 蛇尾在(-10,0)处，呈一字型，输入一行字符，L表示蛇向左行走一格，R表示蛇向右行走一格，

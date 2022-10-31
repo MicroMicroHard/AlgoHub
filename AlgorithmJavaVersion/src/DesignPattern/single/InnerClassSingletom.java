@@ -1,10 +1,10 @@
 package DesignPattern.single;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-4-22 Time������12:04:39
- * @Email ljfirst@mail.ustc.edu.cn
+ * @Email micromicrohard@outlook.com
  * @description
  */
 public class InnerClassSingletom implements Singletom {

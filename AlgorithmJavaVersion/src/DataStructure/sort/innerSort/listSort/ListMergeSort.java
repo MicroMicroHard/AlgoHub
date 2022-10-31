@@ -6,10 +6,10 @@ import DataStructure.sort.innerSort.ListSortINTF;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-23 12:09:20
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 链表的归并排序
  */
 

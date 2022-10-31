@@ -2,10 +2,10 @@ package DesignPattern.factory.simplefactory;
 
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-3-31 ����03:51:33
- * @authorEmail ljfirst@mail.ustc.edu.cn
+ * @authorEmail micromicrohard@outlook.com
  * @description
  * @blogURL
  */

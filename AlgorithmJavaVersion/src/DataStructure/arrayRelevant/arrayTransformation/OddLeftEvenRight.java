@@ -1,11 +1,11 @@
 package DataStructure.arrayRelevant.arrayTransformation;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/9
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 奇数左边偶数右边
  * 输入输出，让所有的奇数出现在左边，偶数出现在右边，奇偶数的原相对顺序不变
  * 输入：

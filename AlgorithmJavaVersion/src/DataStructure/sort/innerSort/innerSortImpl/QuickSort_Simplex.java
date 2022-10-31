@@ -5,10 +5,10 @@ import org.junit.Test;
 import DataStructure.sort.innerSort.ArraySortINTF;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 上午11:55:48
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 快速排序 单向快排
  * 单向快排：
  * 1.同时设两个指针，一个指针代表中间定位mid,另一个指针i从左到右寻找比标杆小的元素(隐藏在for循环中)，

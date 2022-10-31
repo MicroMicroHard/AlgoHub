@@ -6,10 +6,10 @@ import Top100.Dynamic;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-06 22:04
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 编辑距离
  * 指的是在两个单词之间，由其中一个单词转换为另一个单词所需要的最少单字符编辑操作次数。
  * 在这里定义的单字符编辑操作有且仅有三种：插入（Insertion）、删除（Deletion）、替换（Substitution）

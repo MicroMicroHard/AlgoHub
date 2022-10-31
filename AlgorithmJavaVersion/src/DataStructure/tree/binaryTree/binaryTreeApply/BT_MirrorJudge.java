@@ -6,11 +6,11 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/12/21
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 判断镜像二叉树
  * 即节点的左孩子值等于右孩子值，是否是一个完全对称的镜像二叉树
  */

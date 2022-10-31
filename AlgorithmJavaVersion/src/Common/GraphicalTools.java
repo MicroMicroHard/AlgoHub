@@ -1,10 +1,10 @@
 package Common;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/10/27 01:55
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 图形工具
  * 计算两点之间的距离 {@link GraphicalTools#cal_distance_point2point}
  * 计算点到直线的距离 {@link GraphicalTools#cal_distance_point2line}

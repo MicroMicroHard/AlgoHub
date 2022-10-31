@@ -1,10 +1,10 @@
 package Common.MidwareConn.DBConn.MYSQLConn;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version V1.0
  * @date 2022/3/12 7:28 PM
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description SQL对象实体
  */
 public class UTDataEntity {

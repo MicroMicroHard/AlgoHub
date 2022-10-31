@@ -6,10 +6,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-09 22:22
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 顺时针打印螺旋矩阵
  * 输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字，
  * 例如，如果输入如下4*4矩阵：

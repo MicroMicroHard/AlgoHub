@@ -6,9 +6,9 @@ import DataStructure.tree.redBlackTree.RedBlackTreeImpl;
 import java.util.Scanner;
 
 /**
- *@author liujun
+ *@author 蔚蔚樱
  *@date 2018-9-3 下午08:19:20
- *@author—Email ljfirst@mail.ustc.edu.cn
+ *@author—Email micromicrohard@outlook.com
  *@description 数独
  *@version 1.0
  */

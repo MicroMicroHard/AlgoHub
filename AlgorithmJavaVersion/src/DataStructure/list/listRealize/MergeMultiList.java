@@ -10,10 +10,10 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/3/27 12:51
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 合并多条有序链表
  */
 

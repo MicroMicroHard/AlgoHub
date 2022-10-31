@@ -1,10 +1,10 @@
 package DesignPattern.visitor;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-1-6 ����04:32:39
- * @authorEmail ljfirst@mail.ustc.edu.cn
+ * @authorEmail micromicrohard@outlook.com
  * @description
  * @URL
  */

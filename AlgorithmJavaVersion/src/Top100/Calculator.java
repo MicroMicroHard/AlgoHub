@@ -12,10 +12,10 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-5-13 10:29:49
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description Calculate 计算器
  * 根据输入的表达式，运算出结果
  */

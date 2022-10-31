@@ -1,9 +1,9 @@
 package DataStructure.stringOps.stringCompare;
 
 /**
- *@author liujun
+ *@author 蔚蔚樱
  *@date 2019-8-26 07:32:21
- *@author-Email ljfirst@mail.ustc.edu.cn
+ *@author-Email micromicrohard@outlook.com
  *@blogURL  Blog URL:
  *@description  Sunday算法匹配字符串
  *@version 1.0

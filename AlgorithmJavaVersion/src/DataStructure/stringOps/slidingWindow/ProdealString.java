@@ -5,10 +5,10 @@ import DataStructure.stringOps.stringCompare.StringCompare;
 import java.util.ArrayList;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-10-28 09:03
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 字符串预处理法解决字符串匹配问题
  * 在 源串序列 中是否含有 目标串的 序列
  */

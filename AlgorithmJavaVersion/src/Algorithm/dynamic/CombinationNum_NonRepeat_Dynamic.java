@@ -4,10 +4,10 @@ import Top100.CombinationAndPermutation;
 import Top100.Dynamic;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-11-25 16:42
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 分割等和子集
  * 给你一个 只包含正整数 的 非空 数组 nums 。
  * 请你判断是否可以将这个数组分割成两个子集，使得两个子集的元素和相等。

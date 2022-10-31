@@ -4,7 +4,7 @@ import DataStructure.tree.huffman.Huffman;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @date 2020-02-19 17:00
  * @description  huffman的测试方法是，测试其WPL是否是最小（给定值）
  */

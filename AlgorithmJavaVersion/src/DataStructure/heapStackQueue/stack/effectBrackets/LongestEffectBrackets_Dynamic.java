@@ -3,10 +3,10 @@ package DataStructure.heapStackQueue.stack.effectBrackets;
 import java.util.Arrays;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-12-01 17:48
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 判断最长有效括号【不连续】
  * 输入一个字符串，从中找出最长的有效括号
  * 输入：（（（）--（（（）））--））

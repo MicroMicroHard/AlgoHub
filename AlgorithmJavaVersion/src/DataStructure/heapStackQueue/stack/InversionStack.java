@@ -3,11 +3,11 @@ package DataStructure.heapStackQueue.stack;
 import java.util.Stack;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/8/3
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 逆置栈中元素
  * 有两个相同的栈，一个里面放着自大到小排列的数，栈顶的数最小，另一个栈是空的.
  * 不允许利用其它的数据结构，只能利用这两个栈，要求把第一个栈里的数字反过来，从

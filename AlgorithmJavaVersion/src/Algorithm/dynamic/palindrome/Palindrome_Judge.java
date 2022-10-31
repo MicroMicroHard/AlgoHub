@@ -1,10 +1,10 @@
 package Algorithm.dynamic.palindrome;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/7/5 23:37
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 回文串判断
  * @blogURL
  */

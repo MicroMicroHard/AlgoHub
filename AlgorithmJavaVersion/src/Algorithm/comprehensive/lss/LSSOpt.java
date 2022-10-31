@@ -4,10 +4,10 @@ import Common.Utils.UTFactory;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-7-19 Time：上午10:15:35
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 最大子段和
  * LargestSumOfSubSequence by dynamic
  * 已知数组A[1..n]中存放着一些实数，有正有负，请写程序找出其最大求和子区间

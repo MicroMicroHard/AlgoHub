@@ -4,10 +4,10 @@ import DataStructure.list.listReverse.ListReverse_PartN_impl;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2022/5/3 22:51
- * @author—Email ljfirst@mail.ustc.edu.cn
+ * @author—Email micromicrohard@outlook.com
  * @description 过一遍 项目全量 测试
  * 测试数据插入:{@link BuildUTData#insert()}
  * 打印测试案例:{@link BuildUTData#PrintUTData()}

@@ -5,11 +5,11 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/10/10
- * @author-Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author-Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 给定一个包含重复数字的数组，返回不重复的个数
  * 找出重复数组中仅出现一次的数，并排序
  */

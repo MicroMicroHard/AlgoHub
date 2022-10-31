@@ -1,11 +1,11 @@
 package DataStructure.tree.redBlackTree;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/11/18
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 红黑树
  * 1、插入 put(int key, int value)(是否去重)
  * 2、删除 remove(int key)

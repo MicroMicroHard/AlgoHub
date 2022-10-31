@@ -4,10 +4,10 @@ import DataStructure.list.Listlj;
 import DataStructure.list.Nodelj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2018-8-18 01:08:11
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 单链表
  * 单链表的插入：数组和单个元素 （头插和尾插）
  * 单链表的删除：删除特定元素和指定位置元素

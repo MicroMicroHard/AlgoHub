@@ -4,10 +4,10 @@ import DataStructure.list.Nodelj;
 import DataStructure.heapStackQueue.Stacklj;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2019-10-21 12:17
- * @author-Email ljfirst@mail.ustc.edu.cn
+ * @author-Email micromicrohard@outlook.com
  * @description 链式栈
  */
 public class LinkedStacklj implements Stacklj {

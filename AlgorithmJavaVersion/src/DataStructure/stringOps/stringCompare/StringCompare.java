@@ -1,8 +1,8 @@
 package DataStructure.stringOps.stringCompare;
 
 /**
- * @author liujun
- * @author Email  ljfirst@mail.ustc.edu.cn
+ * @author 蔚蔚樱
+ * @author Email  micromicrohard@outlook.com
  * @version 1.0
  * @date 2020-01-31 22:11
  * @description 字符串对比

@@ -4,11 +4,11 @@ import DataStructure.stringOps.stringAndSequence.TransIPtoInt;
 import org.junit.Test;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/3/16
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 将string类型的IP地址转化成int
  */
 public class TransIPtoIntTest {

@@ -7,11 +7,11 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author liujun
+ * @author 蔚蔚樱
  * @version 1.0
  * @date 2020/6/29
- * @author—Email ljfirst@mail.ustc.edu.cn
- * @blogURL https://blog.csdn.net/ljfirst
+ * @author—Email micromicrohard@outlook.com
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 字符组成判断
  * 给定一个非空的字符串s和一个字典wordDict
  * 判断 s 是否可以由 wordDict 里面的词组成
