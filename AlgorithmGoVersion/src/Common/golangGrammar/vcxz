@@ -1,0 +1,8 @@
+
+insert into peakmode_virtual_id_tab (`region`,`geohash`,`peakmode_virtual_id`,`create_time`) values
+("ID","qr4ce3","group_B",REPLACE(unix_timestamp(NOW(3)), '.', '')),
+("ID","qqu09w","group_B",REPLACE(unix_timestamp(NOW(3)), '.', '')),
+("ID","qqy82","group_B",REPLACE(unix_timestamp(NOW(3)), '.', '')),
+("ID","qqy82g","group_B",REPLACE(unix_timestamp(NOW(3)), '.', '')),
+("ID","qquh2p","group_B",REPLACE(unix_timestamp(NOW(3)), '.', '')),
+("ID","qw8jcd","group_B",REPLACE(unix_timestamp(NOW(3)), '.', '')),

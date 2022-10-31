@@ -1,0 +1,12 @@
+package MQConn
+
+// MQInterface
+// @author: 蔚蔚樱
+// @date: 2022/8/816:43
+// @author—Email: micromicrohard@outlook.com
+// @description:
+// @blogURL:
+
+type MQProducerInterface interface {
+	SendMsg(params string) // Producer
+}
