@@ -4,7 +4,7 @@ import itertools
  * @Class: TaxCalculation
  * @author: micromicrohard
  * @date: 2022/5/1422:43
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description: 排列组合 C43
  题目 有四个数字：1、2、3、4，能组成多少个互不相同且无重复数字的三位数？各是多少？
  程序分析 遍历全部可能，把有重复的剃掉。

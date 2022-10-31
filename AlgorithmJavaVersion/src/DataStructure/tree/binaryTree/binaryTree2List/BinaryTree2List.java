@@ -1,9 +1,8 @@
-package DataStructure.tree.binaryTree;
+package DataStructure.tree.binaryTree.binaryTree2List;
 
 import DataStructure.list.Listlj;
 import DataStructure.list.Nodelj;
 import DataStructure.list.listRealize.SinglyLinkedList;
-import DataStructure.tree.binaryTree.BinaryTree2LinkedList;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 
 /**
@@ -14,15 +13,13 @@ import DataStructure.tree.binaryTree.BinaryTreeImpl;
  * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 二叉树转链表
  */
-public class BinaryTree2LinkedListImpl implements BinaryTree2LinkedList {
+public class BinaryTree2List {
 
     /**
      * @param binaryTree 二叉树
      * @return 单链表链表
      */
-    
     public Listlj BinaryTree2LinkedList(BinaryTreeImpl binaryTree) {
-
         binaryTree = BinaryTree2LinkedList_Right(binaryTree);
         //binaryTree = BinaryTree2LinkedList_Left(binaryTree);
         SinglyLinkedList list = print(binaryTree);

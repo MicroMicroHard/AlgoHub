@@ -73,14 +73,14 @@ public class BinaryTreeImpl implements BinaryTree {
     @Override
     public int[] serialize(BinaryTreeImpl root) {
         BT2ArrayByPreOrder tools = new BT2ArrayByPreOrder();
-        int[] answer = tools.Method(root);
+        int[] answer = tools.Method_Recursive(root);
         return answer;
     }
 
     @Override
     public BinaryTreeImpl deserialization(int[] array) {
         Array2BTByPreOrder tools = new Array2BTByPreOrder();
-        return tools.Method(array);
+        return tools.Method_Recursive_Queue(array);
     }
 
     public void print() {

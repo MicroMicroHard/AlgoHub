@@ -2,7 +2,7 @@
  * @Class: arrayAppend 
  * @author: micromicrohard
  * @date: 2022/5/2221:19
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description:
  * @blogURL:
 """

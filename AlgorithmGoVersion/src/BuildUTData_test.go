@@ -42,11 +42,7 @@ func GetAlgorithm() []interface{} {
 		// greedy
 
 		// math
-		&math.PrimeNum{},
-		&math.PrimeNumChannel{},
-		&math.Combination{},
-		&math.Permutation{},
-		&math.Factorial{},
+		&math.PrimeNum{}, &math.PrimeNumChannel{}, &math.Combination{}, &math.Permutation{}, &math.Factorial{},
 		//NthPowerOfTwo.class,
 
 		//BigNumSum.class,

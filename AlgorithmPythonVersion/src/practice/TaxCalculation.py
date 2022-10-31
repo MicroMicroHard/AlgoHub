@@ -2,7 +2,7 @@
  * @Class: TaxCalculation
  * @author: micromicrohard
  * @date: 2022/5/1422:43
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description: 题目 企业发放的奖金根据利润提成。
  利润(I)
  低于或等于10万元时:                  奖金可提10%；

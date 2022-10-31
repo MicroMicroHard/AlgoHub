@@ -4,7 +4,7 @@ from DataStructure.sort.innerSort.SortInterface import SortInterface
  * @Class: BubbleSort
  * @author: micromicrohard
  * @date: 2022/5/1422:43
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description: 冒泡排序
  * @blogURL:
 """

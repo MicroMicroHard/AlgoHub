@@ -1,8 +1,7 @@
 package Algorithm.math;
 
-import Common.GraphicalTools;
+import Common.Utils.GraphicalTools;
 import Common.Utils.UTFactory;
-import DataStructure.list.Nodelj;
 import org.junit.Test;
 
 /**

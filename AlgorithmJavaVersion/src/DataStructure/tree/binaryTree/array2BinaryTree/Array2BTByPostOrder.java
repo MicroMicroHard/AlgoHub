@@ -27,14 +27,14 @@ public class Array2BTByPostOrder {
         UTFactory.DebugTest(this.getClass(), input, output);
     }
 
-    public BinaryTreeImpl Method(int[] array) {
+    public BinaryTreeImpl Me1thod(int[] array) {
         if (array == null || array.length == 0) {
             return null;
         }
         return null;
     }
 
-    public BinaryTreeImpl Method_Recursive(int[] array) {
+    public BinaryTreeImpl Met1hod_Recursive(int[] array) {
         if (array == null || array.length == 0) {
             return null;
         }

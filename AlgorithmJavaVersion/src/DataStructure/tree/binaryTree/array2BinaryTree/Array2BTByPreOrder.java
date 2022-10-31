@@ -14,6 +14,9 @@ import java.util.*;
  * @author-Email micromicrohard@outlook.com
  * @description 将按先序遍历的方式输入的数组
  * 根据先序遍历的数组(带符号)，构造成一个二叉树（特殊符号）【递归、非递归解法】
+ * Method_Stack
+ * Method_Recursive
+ * Method_Recursive_Constant
  * @blogURL
  */
 public class Array2BTByPreOrder {
@@ -25,13 +28,13 @@ public class Array2BTByPreOrder {
 
     @Test // 调试功能 : 用于复现错误的测试案例
     public void DoubleTrack() throws Exception {
-        String input = "{1, 2, 4, NLF, NLF, 5, NLF, NLF, 3, 6, NLF, NLF, 7, NLF, NLF}";
-        String output = "{1, 2, 4, NLF, NLF, 5, NLF, NLF, 3, 6, NLF, NLF, 7, NLF, NLF}";
+        String input = "{1, 2, NLF, NLF, 4, 5, NLF, NLF, 3, 6, NLF, 7, NLF, NLF, NLF}";
+        String output = "{1, 2, NLF, NLF, 4, 5, NLF, NLF, 3, 6, NLF, 7, NLF, NLF, NLF}";
         UTFactory.DebugTest(this.getClass(), input, output);
     }
 
     // attention 非递归的写法，需要一个辅助工具：记录左孩子已经有值的leftMap，来维护关系
-    public BinaryTreeImpl Method(int[] array) {
+    public BinaryTreeImpl Method_Stack(int[] array) {
         if (array == null || array.length == 0) {
             return null;
         }
@@ -65,7 +68,7 @@ public class Array2BTByPreOrder {
         return root;
     }
 
-    public BinaryTreeImpl Method_Recursive(int[] array) {
+    public BinaryTreeImpl Method_Recursive_Queue(int[] array) {
         if (array == null || array.length == 0) {
             return null;
         }
@@ -73,10 +76,10 @@ public class Array2BTByPreOrder {
         for (int i : array) {
             queue.add(i);
         }
-        return preOrderRecurse(queue);
+        return roll(queue);
     }
 
-    public BinaryTreeImpl preOrderRecurse(Queue<Integer> queue) {
+    public BinaryTreeImpl roll(Queue<Integer> queue) {
         if (queue == null || queue.isEmpty()) {
             return null;
         }
@@ -85,8 +88,31 @@ public class Array2BTByPreOrder {
             return null;
         }
         BinaryTreeImpl node = new BinaryTreeImpl(value);
-        node.left = preOrderRecurse(queue);
-        node.right = preOrderRecurse(queue);
+        node.left = roll(queue);
+        node.right = roll(queue);
         return node;
+    }
+
+    int count = 0;
+
+    public BinaryTreeImpl Method_Recursive_Constant(int[] array) {
+        if (array == null || array.length == 0) {
+            return null;
+        }
+        count = 0;
+        return roll(new BinaryTreeImpl(array[0]), array, 0);
+    }
+
+    public BinaryTreeImpl roll(BinaryTreeImpl root, int[] array, int index) {
+        if (index >= array.length) {
+            return null;
+        }
+        if (array[index] == C.NLF) {
+            return null;
+        }
+        root.value = array[index];
+        root.left = roll(new BinaryTreeImpl(), array, ++count);
+        root.right = roll(new BinaryTreeImpl(), array, ++count);
+        return root;
     }
 }

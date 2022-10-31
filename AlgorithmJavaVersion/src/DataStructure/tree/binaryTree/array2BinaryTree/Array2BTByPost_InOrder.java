@@ -27,7 +27,7 @@ public class Array2BTByPost_InOrder {
         UTFactory.DebugTest(this.getClass(), input, output);
     }
 
-    public BinaryTreeImpl Method(int[] array_post, int[] array_in) {
+    public BinaryTreeImpl Meth1od(int[] array_post, int[] array_in) {
         if (array_post == null || array_post.length == 0 ||
                 array_in == null || array_in.length == 0 ||
                 array_in.length != array_post.length) {
@@ -36,7 +36,7 @@ public class Array2BTByPost_InOrder {
         return null;
     }
 
-    public BinaryTreeImpl Method_Recursive(int[] array_post, int[] array_in) {
+    public BinaryTreeImpl Me1thod_Recursive(int[] array_post, int[] array_in) {
         if (array_post == null || array_post.length == 0 ||
                 array_in == null || array_in.length == 0 ||
                 array_in.length != array_post.length) {

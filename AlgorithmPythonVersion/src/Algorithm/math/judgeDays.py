@@ -2,7 +2,7 @@
  * @Class: judgeDays 
  * @author: micromicrohard
  * @date: 2022/5/2220:55
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description: 输入某年某月某日，判断这一天是这一年的第几天？
  * @blogURL:
 """

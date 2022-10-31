@@ -1,4 +1,4 @@
-package DataStructure.tree.binaryTree.binaryTreeImpl;
+package Common.Utils.GC.binaryTreeImpl;
 
 import Common.Constant.C;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
@@ -80,8 +80,8 @@ public class BinaryTree2ArrayImpl implements BinaryTree2Array {
             return new int[0];
         }
         List<Integer> list = new ArrayList<>();
-        Stack<BinaryTreeImpl> stack1 = new Stack();
-        Stack<BinaryTreeImpl> stack2 = new Stack();
+        Stack<BinaryTreeImpl> stack1 = new Stack<>();
+        Stack<BinaryTreeImpl> stack2 = new Stack<>();
         stack1.push(root);
         list.add(root.value);
         boolean rawflag = true;
@@ -274,21 +274,21 @@ public class BinaryTree2ArrayImpl implements BinaryTree2Array {
     }
 
     //后续遍历 单栈法
-    public void PostOrder_single_stack(BinaryTreeImpl h) {
+    public void PostOrder_single_stack(BinaryTreeImpl node) {
         Stack<BinaryTreeImpl> stack = new Stack<>();
-        stack.push(h);
-        BinaryTreeImpl c = null;
+        stack.push(node);
+        BinaryTreeImpl cur = null;
+        BinaryTreeImpl pre = node;
         while (!stack.isEmpty()) {
-            c = stack.peek();
-            if (c.left != null && h != c.left && h != c.right) {
-                stack.push(c.left);
-            } else if (c.right != null && h != c.right) {
-                stack.push(c.right);
+            cur = stack.peek();
+            if (cur.left != null && pre != cur.left && pre != cur.right) {
+                stack.push(cur.left);
+            } else if (cur.right != null && pre != cur.right) {
+                stack.push(cur.right);
             } else {
                 listPostOrder.add(stack.pop().value);
-                h = c;
+                pre = cur;
             }
         }
     }
-
 }

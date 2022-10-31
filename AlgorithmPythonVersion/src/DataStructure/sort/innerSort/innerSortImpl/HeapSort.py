@@ -4,7 +4,7 @@ from DataStructure.sort.innerSort.SortInterface import SortInterface
  * @Class: HeapSort
  * @author: micromicrohard
  * @date: 2022/5/1422:43
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description: 堆排序
  * @blogURL:
 """

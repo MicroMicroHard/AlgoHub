@@ -1,4 +1,4 @@
-package Common;
+package Common.Utils;
 
 /**
  * @author 蔚蔚樱

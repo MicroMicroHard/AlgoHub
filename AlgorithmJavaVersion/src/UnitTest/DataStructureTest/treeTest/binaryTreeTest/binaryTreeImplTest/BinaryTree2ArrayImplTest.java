@@ -1,7 +1,7 @@
 package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeImplTest;
 
-import DataStructure.tree.binaryTree.binaryTreeImpl.BinaryTree2ArrayImpl;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
+import Common.Utils.GC.binaryTreeImpl.BinaryTree2ArrayImpl;
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import org.junit.Test;
 
 import java.util.Arrays;

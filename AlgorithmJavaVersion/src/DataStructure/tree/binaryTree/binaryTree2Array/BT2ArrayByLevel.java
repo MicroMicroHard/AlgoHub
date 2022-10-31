@@ -1,8 +1,15 @@
 package DataStructure.tree.binaryTree.binaryTree2Array;
 
+import Common.Constant.C;
 import Common.Utils.UTFactory;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
+import jdk.nashorn.internal.ir.EmptyNode;
 import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 /**
  * @author 蔚蔚樱
@@ -28,12 +35,53 @@ public class BT2ArrayByLevel {
     }
 
     // 2、按层遍历二叉树 输出数组
-    public int[] Trans2ArrayMethod(BinaryTreeImpl root) {
-        return null;
+    public int[] Method_ByLevel(BinaryTreeImpl root) {
+        if (root == null) {
+            return new int[]{};
+        }
+        Queue<BinaryTreeImpl> queue = new LinkedList<>();
+        List<BinaryTreeImpl> list = new ArrayList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            BinaryTreeImpl node = queue.poll();
+            if (node == null) {
+                if (C.WithNLF) {
+                    list.add(new BinaryTreeImpl(C.NLF));
+                }
+                continue;
+            } else {
+                list.add(node);
+            }
+            queue.offer(node.left);
+            queue.offer(node.right);
+        }
+        return list.stream().mapToInt(x -> x.value).toArray();
     }
 
     // 1、按行打印二叉树
-    public void Print() {
-
+    public void PrintLevel(BinaryTreeImpl root) {
+        if (root == null) {
+            return;
+        }
+        Queue<BinaryTreeImpl> queue = new LinkedList<>();
+        queue.offer(root);
+        BinaryTreeImpl front = root;
+        BinaryTreeImpl cur = root;
+        while (!queue.isEmpty()) {
+            BinaryTreeImpl node = queue.poll();
+            System.out.print(node.value + " ");
+            if (node.left != null) {
+                cur = node.left;
+                queue.offer(node.left);
+            }
+            if (node.right != null) {
+                cur = node.right;
+                queue.offer(node.right);
+            }
+            if (node == front) {
+                front = cur;
+                System.out.println();
+            }
+        }
     }
 }

@@ -3,7 +3,7 @@ package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeApplyTest;
 import DataStructure.tree.binaryTree.binaryTreeApply.BTFindLargestSubPath_NonRecursion;
 import DataStructure.tree.binaryTree.binaryTreeApply.BTFindLargestSubPath_Recursion;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import org.junit.Test;
 
 import java.util.Arrays;

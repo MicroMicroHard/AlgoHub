@@ -1,8 +1,8 @@
-package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData;
+package DataStructure.tree.binaryTree.binaryTreeTestData;
 
 import Common.Utils.ArrayTools;
-import DataStructure.tree.binaryTree.binaryTreeImpl.BinaryTree2ArrayImpl;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
+import Common.Utils.GC.binaryTreeImpl.BinaryTree2ArrayImpl;
 
 import java.util.ArrayList;
 import java.util.List;

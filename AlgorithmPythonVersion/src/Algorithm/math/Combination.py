@@ -5,7 +5,7 @@ from Utils.Constant.C import ErrorNum
  * @Class: Combination 
  * @author: micromicrohard
  * @date: 2022/5/2220:42
- * @author—Email: ljfirst@mail.ustc.edu.cn
+ * @author—Email: micromicrohard@outlook.com
  * @description: 数学组合数
  * @blogURL:
 """

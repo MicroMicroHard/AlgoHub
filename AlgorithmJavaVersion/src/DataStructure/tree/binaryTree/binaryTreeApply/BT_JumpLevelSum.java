@@ -2,7 +2,7 @@ package DataStructure.tree.binaryTree.binaryTreeApply;
 
 
 import Algorithm.comprehensive.lsg.LSG;
-import DataStructure.tree.binaryTree.binaryTreeImpl.BinaryTree2ArrayImpl;
+import Common.Utils.GC.binaryTreeImpl.BinaryTree2ArrayImpl;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 import Top100.Dynamic;
 

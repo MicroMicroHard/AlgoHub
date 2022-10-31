@@ -1,4 +1,4 @@
-package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData;
+package DataStructure.tree.binaryTree.binaryTreeTestData;
 
 /**
  * @author 蔚蔚樱

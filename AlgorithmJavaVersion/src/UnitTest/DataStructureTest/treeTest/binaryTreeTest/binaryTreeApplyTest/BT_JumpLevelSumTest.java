@@ -1,8 +1,8 @@
 package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeApplyTest;
 
 import DataStructure.tree.binaryTree.binaryTreeApply.BT_JumpLevelSum;
-import DataStructure.tree.binaryTree.binaryTreeImpl.Array2BinaryTreeImpl;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
+import Common.Utils.GC.binaryTreeImpl.Array2BinaryTreeImpl;
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import org.junit.Test;
 
 public class BT_JumpLevelSumTest extends BT_TestData_Tree {

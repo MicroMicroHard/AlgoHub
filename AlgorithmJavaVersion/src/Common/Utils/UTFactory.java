@@ -124,7 +124,7 @@ public class UTFactory {
             System.out.printf("%s 未找到实现，请检查该接口\n", interfaceName);
             return;
         }
-        System.out.printf("\n%50s %s\n", config.commonConfig.SpiltExpr + " Interface : " + interfaceName, config.commonConfig.SpiltExpr);
+        System.out.printf("\n%50s %s\n", "======$$$$【" + " Interface : " + interfaceName, "】$$$$======");
         for (Class<?> cla : classList) {
             DoUnitTest(cla, list);
         }

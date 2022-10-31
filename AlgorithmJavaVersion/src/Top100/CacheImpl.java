@@ -1,5 +1,7 @@
 package Top100;
 
+import DataStructure.list.hashTable.*;
+
 public interface CacheImpl {
 
     /**

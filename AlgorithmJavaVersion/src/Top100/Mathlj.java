@@ -8,7 +8,7 @@ import DataStructure.arrayRelevant.arrayApply.PoolPig;
  * @version 1.0
  * @date 2020/5/15
  * @author—Email micromicrohard@outlook.com
- * @blogURL https:blog.csdn.net/ljfirst
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 数学相关的题目
  */
 

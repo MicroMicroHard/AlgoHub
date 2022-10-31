@@ -10,7 +10,7 @@ import DataStructure.stringOps.slidingWindow.*;
  * @version 1.0
  * @date 2021/12/7
  * @author—Email micromicrohard@outlook.com
- * @blogURL https:blog.csdn.net/ljfirst
+ * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 滑动窗口
  */
 public interface SlidingWindow {

@@ -3,7 +3,7 @@ package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeApplyTest;
 import DataStructure.tree.binaryTree.binaryTreeApply.BT_NearestCommonParent_Recursion;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
 import DataStructure.tree.binaryTree.binaryTreeApply.BT_NearestCommonParent;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import org.junit.Test;
 
 /**

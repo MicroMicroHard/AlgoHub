@@ -1,4 +1,4 @@
-package DataStructure.tree.binaryTree.binaryTreeImpl;
+package Common.Utils.GC.binaryTreeImpl;
 
 import DataStructure.tree.Tree;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;

@@ -29,16 +29,25 @@ public class BIgLottoTest {
 
     public Map<String, int[]> GetLottoMap() {
         Map<String, int[]> lottoMap = new HashMap<>();
-
+        lottoMap.put("11-02 周三", new int[]{3, 7, 14, 16, 19, 1, 11});
+        lottoMap.put("10-31 周一", new int[]{2, 4, 11, 25, 30, 6, 12});
+        lottoMap.put("10-29 周六", new int[]{2, 20, 28, 29, 30, 7, 10});
+        lottoMap.put("10-26 周三", new int[]{4, 15, 17, 19, 25, 6, 12});
+        lottoMap.put("10-24 周一", new int[]{4, 15, 16, 20, 21, 4, 5});
+        lottoMap.put("10-22 周六", new int[]{11, 22, 26, 30, 33, 3, 5});
+        lottoMap.put("10-19 周三", new int[]{1, 9, 16, 25, 29, 4, 9});
+        lottoMap.put("10-17 周一", new int[]{2, 5, 15, 17, 26, 2, 8});
+        lottoMap.put("10-15 周六", new int[]{9, 12, 15, 21, 32, 2, 7});
+        lottoMap.put("10-12 周三", new int[]{1, 7, 20, 22, 31, 7, 12});
         lottoMap.put("10-10 周一", new int[]{17, 19, 20, 23, 27, 3, 8});
-        lottoMap.put("10-8 周六", new int[]{11, 21, 24, 27, 28, 5, 10});
+       /* lottoMap.put("10-8 周六", new int[]{11, 21, 24, 27, 28, 5, 10});
         lottoMap.put("10-5 周三", new int[]{13, 15, 22, 31, 33, 5, 12});
         lottoMap.put("9-28 周三", new int[]{4, 11, 18, 20, 26, 6, 12});
-        lottoMap.put("9-26 周一", new int[]{6, 12, 16, 19, 31, 6, 10});
+        lottoMap.put("9-26 周 一", new int[]{6, 12, 16, 19, 31, 6, 10});
         lottoMap.put("9-24 周六", new int[]{2, 13, 16, 18, 23, 3, 6});
         lottoMap.put("9-21 周三", new int[]{5, 9, 24, 29, 35, 5, 12});
         lottoMap.put("9-19 周一", new int[]{4, 7, 13, 26, 28, 7, 11});
-        lottoMap.put("9-17 周六", new int[]{7, 9, 19, 28, 29, 8, 10});
+        lottoMap.put("9-17 周六", new int[]{7, 9, 19, 28, 29, 8, 10});*/
         return lottoMap;
     }
 
@@ -65,6 +74,10 @@ public class BIgLottoTest {
             {9, 25, 32, 33, 35, 7, 11},
             {11, 19, 22, 27, 29, 6, 10},
             {4, 5, 12, 22, 28, 1, 7},
+
+            {2, 20, 27, 33, 34, 4, 7},
+            {7, 20, 27, 33, 34, 2, 4},
+            {4, 20, 27, 33, 34, 2, 7},
     };
 
     String[] Data0805_0810 = {

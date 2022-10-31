@@ -5,11 +5,10 @@ public class C {
     // 相互识别对
     public static final int MaxValueExpr = Integer.MAX_VALUE;       // int类型的最大值
     public static final int MinValueExpr = Integer.MIN_VALUE;       // int类型的最大值
-
     public static final int ErrorNum = Integer.MIN_VALUE + 1;       // 表示错误的计算结果,+1是为了区分最小值
     public static final String ErrorExpr = "ErrorExpr";
     public static final String ErrorNumStr = "ErrorNum";
-
+    public static final boolean WithNLF = true;                     // 是否记录带 空叶子 Symbol符号
     public static final int NLF = Integer.MIN_VALUE + 2;            // NLF = NullLeafSymbol:表示空叶子结点，+2是为了区分最小值
 
 

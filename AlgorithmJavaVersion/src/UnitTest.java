@@ -24,6 +24,27 @@ import org.junit.Test;
 
 public class UnitTest extends UTDataTools {
 
+    @Test // 全量回归测试
+    public void TestAllUT() throws Exception {
+        Class<?>[] a = BuildUTData.GetAlgorithmClass();
+        Class<?>[] b = BuildUTData.GetDataStructureClass();
+        Class<?>[] c = new Class[a.length + b.length];
+        System.arraycopy(a, 0, c, 0, a.length);
+        if (c.length - b.length >= 0) System.arraycopy(b, 0, c, a.length, b.length);
+        UTFactory.FullTestAll(c);
+    }
+
+    @Test // 测试算法模块 案例
+    public void TestAlgorithmUT() throws Exception {
+        UTFactory.FullTestAll(BuildUTData.GetAlgorithmClass());
+        UTFactory.FullTestAllThreadPool(BuildUTData.GetDataStructureClass());
+    }
+
+    @Test // 测试数据结构模块 案例
+    public void TestDataStructureUT() throws Exception {
+        UTFactory.FullTestAll(BuildUTData.GetDataStructureClass());
+    }
+
     @Test // 调试功能 : 用于复现错误测试案例
     public void TestFunc() throws Exception {
         UTFactory.FullTest(ListReverse_PartN_impl.class);
@@ -35,26 +56,5 @@ public class UnitTest extends UTDataTools {
         String input = "{1, 2, 3, 4, 5, 6, 7, 8, 7, 6, 5, 4, 3, 2, 1}  ############  2";
         String output = "{2,1,4,3,6,5,8,7,6,7,4,5,2,3,1}";
         UTFactory.DebugTest(ListReverse_PartN_impl.class, input, output);
-    }
-
-    @Test // 全量回归测试
-    public void TestAllUT() throws Exception {
-        Class<?>[] a = BuildUTData.GetAlgorithmClass();
-        Class<?>[] b = BuildUTData.GetDataStructureClass();
-        Class<?>[] c = new Class[a.length + b.length];
-        System.arraycopy(a, 0, c, 0, a.length);
-        if (c.length - b.length >= 0) System.arraycopy(b, 0, c, a.length, b.length);
-        UTFactory.FullTestAll(c);
-    }
-
-    @Test
-    public void TestAlgorithmUT() throws Exception {
-        UTFactory.FullTestAll(BuildUTData.GetAlgorithmClass());
-        UTFactory.FullTestAllThreadPool(BuildUTData.GetDataStructureClass());
-    }
-
-    @Test
-    public void TestDataStructureUT() throws Exception {
-        UTFactory.FullTestAll(BuildUTData.GetDataStructureClass());
     }
 }

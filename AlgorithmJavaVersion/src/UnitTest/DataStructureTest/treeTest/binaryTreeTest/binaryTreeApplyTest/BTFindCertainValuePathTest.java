@@ -1,9 +1,9 @@
 package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeApplyTest;
 
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import Top100.BTFindCertainValuePath;
-import DataStructure.tree.binaryTree.binaryTreeImpl.Array2BinaryTreeImpl;
+import Common.Utils.GC.binaryTreeImpl.Array2BinaryTreeImpl;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
 import Common.Constant.C;
 
 import java.util.ArrayList;

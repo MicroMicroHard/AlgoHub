@@ -27,12 +27,12 @@ public class Array2BTByLevel {
 
     @Test // 调试功能 : 用于复现错误的测试案例
     public void DoubleTrack() throws Exception {
-        String input = "{1, 2, 3, 4, NLF, 5, 6, 7, 8, 9, 10, NLF, 11, NLF, 12, NLF, 13, NLF, NLF, 14, NLF, NLF, NLF, 15, 16, NLF, 17, 18, 19, NLF, NLF, 21, NLF, NLF, NLF, NLF, NLF, 22, NLF, 24, NLF, NLF, 25, NLF, NLF, NLF, NLF}";
-        String output = "{1, 2, 4, 7, NLF, 12, 15, NLF, NLF, 16, 21, 24, NLF, NLF, NLF, NLF, 8, NLF, 13, NLF, 17, NLF, NLF, NLF, 3, 5, 9, NLF, NLF, 10, 14, 18, NLF, NLF, 19, 22, NLF, 25, NLF, NLF, NLF, NLF, 6, NLF, 11, NLF, NLF}";
+        String input = "{1,2,NLF,NLF, 3,NLF, NLF}";
+        String output = "{1,2,NLF,3,NLF,NLF, NLF}";
         UTFactory.DebugTest(this.getClass(), input, output);
     }
 
-    public BinaryTreeImpl Method(int[] array) {
+    public BinaryTreeImpl Met1hod_Queue(int[] array) {
         if (array == null || array.length == 0) {
             return null;
         }
@@ -54,27 +54,5 @@ public class Array2BTByLevel {
         return root;
     }
 
-    public BinaryTreeImpl Met1hod_Recursive(int[] array) {
-        if (array == null || array.length == 0) {
-            return null;
-        }
-        return levelRecurse(new BinaryTreeImpl(array[0]), array, 1);
-    }
-
-    public BinaryTreeImpl levelRecurse(BinaryTreeImpl root, int[] array, int index) {
-        if (index >= array.length) {
-            return null;
-        }
-        if (array[index] == C.NLF) {
-            return null;
-        }
-        BinaryTreeImpl leftChild = new BinaryTreeImpl();
-        BinaryTreeImpl rightChild = new BinaryTreeImpl();
-      /*  int leftIndex = ++index;
-        int rightIndex = ++index;*/
-        root.value = array[index];
-        root.left = levelRecurse(leftChild, array, ++index);
-        root.right = levelRecurse(rightChild, array, ++index);
-        return root;
-    }
+    // todo Method_Recursive
 }

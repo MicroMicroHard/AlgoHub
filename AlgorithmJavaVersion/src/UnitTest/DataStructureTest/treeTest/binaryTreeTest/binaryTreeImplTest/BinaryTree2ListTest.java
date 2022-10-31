@@ -2,8 +2,8 @@ package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeImplTest;
 
 import DataStructure.list.Listlj;
 import DataStructure.list.listRealize.SinglyLinkedList;
-import DataStructure.tree.binaryTree.BinaryTree2LinkedListImpl;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
+import DataStructure.tree.binaryTree.binaryTree2List.BinaryTree2List;
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import org.junit.Test;
 
 /**
@@ -14,9 +14,9 @@ import org.junit.Test;
  * @blogURL https://blog.csdn.net/Micro_Micro_Hard
  * @description 二叉树转链表 测试案例
  */
-public class BinaryTree2LinkedListImplTest extends BT_TestData_Tree {
+public class BinaryTree2ListTest extends BT_TestData_Tree {
 
-    BinaryTree2LinkedListImpl bt = new BinaryTree2LinkedListImpl();
+    BinaryTree2List bt = new BinaryTree2List();
 
     @Test
     public void test() {

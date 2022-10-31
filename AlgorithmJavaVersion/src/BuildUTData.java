@@ -22,6 +22,7 @@ import DataStructure.sort.innerSort.ListSortINTF;
 import DataStructure.stringOps.LNS.LNRSubstringINTF;
 import DataStructure.stringOps.stringAndSequence.DigitalTrans;
 import DataStructure.tree.binaryTree.array2BinaryTree.*;
+import DataStructure.tree.binaryTree.binaryTree2Array.*;
 import DataStructure.tree.binaryTree.binaryTreeApply.*;
 import org.junit.Test;
 
@@ -104,7 +105,8 @@ public class BuildUTData {
                 DigitalTrans.class,
 
                 // tree -- binaryTree
-                Array2BTByPreOrder.class, Array2BTByInOrder.class, Array2BTByPostOrder.class, Array2BTByPost_InOrder.class, Array2BTByPre_InOrder.class, Array2BTByLevel.class,
+                Array2BTByPreOrder.class, Array2BTByInOrder.class, Array2BTByPostOrder.class, Array2BTByPost_InOrder.class, Array2BTByPre_InOrder.class, Array2BTByLevel.class, Array2BtByFullTree.class,
+                BT2ArrayByPreOrder.class, BT2ArrayByInOrder.class, BT2ArrayByPostOrder.class, BT2ArrayByLeftView.class, BT2ArrayBySLevel.class, BT2ArrayByLevel.class,
                 BT_MirrorJudge.class, BT_MirrorOperation.class, BT_MaxBroad.class, BT_MaxDepth.class, BT_BalanceJudge.class,
         };
     }

@@ -1,10 +1,10 @@
 package UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeImplTest;
 
 
-import DataStructure.tree.binaryTree.binaryTreeImpl.Array2BinaryTreeImpl;
+import Common.Utils.GC.binaryTreeImpl.Array2BinaryTreeImpl;
 import DataStructure.tree.binaryTree.BinaryTreeImpl;
-import UnitTest.DataStructureTest.treeTest.binaryTreeTest.binaryTreeTestData.BT_TestData_Tree;
-import DataStructure.tree.binaryTree.binaryTreeImpl.Array2BinaryTree;
+import Common.Utils.GC.binaryTreeImpl.Array2BinaryTree;
+import DataStructure.tree.binaryTree.binaryTreeTestData.BT_TestData_Tree;
 import org.junit.Test;
 
 /*

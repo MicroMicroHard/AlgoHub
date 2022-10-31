@@ -35,7 +35,7 @@ public class LRUCachelj implements Cachelj {
     public boolean put(int key, String value) {
         if (map.containsKey(key)) {
             // 更新值
-            if (value.equals(map.get(key).value)) {
+            if (!value.equals(map.get(key).value)) {
                 map.get(key).value = value;
             }
             // 更新先后顺序

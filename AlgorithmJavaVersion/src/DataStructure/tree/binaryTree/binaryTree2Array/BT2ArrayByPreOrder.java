@@ -26,65 +26,80 @@ public class BT2ArrayByPreOrder {
 
     @Test // 调试功能 : 用于复现错误的测试案例
     public void DoubleTrack() throws Exception {
-        String input = "{1, 2, 3, 4, 5, 6, 7, 8, NLF, NLF, NLF, NLF, NLF, NLF, NLF, NLF, NLF}";
-        String output = "{1, 2, 3, 4, 5, 6, 7, 8, NLF, NLF, NLF, NLF, NLF, NLF, NLF, NLF, NLF}";
+        String input = "{1, 2, NLF, 3, NLF, NLF, NLF}";
+        String output = "{1, 2, NLF, 3, NLF, NLF, NLF}";
         UTFactory.DebugTest(this.getClass(), input, output);
     }
 
-    // 默认带 空叶子 Symbol符号
-    boolean withSymbol = true;
-
     // 先序 遍历二叉树 输出数组【单栈】
-    public int[] Method(BinaryTreeImpl root) {
+    public int[] Method_Stack(BinaryTreeImpl root) {
         if (root == null) {
             return new int[]{};
         }
         List<Integer> list = new ArrayList<>();
         Stack<BinaryTreeImpl> stack = new Stack<>();
-        stack.push(root);
-        while (!stack.isEmpty()) {
+        while (!stack.isEmpty() || root != null) {
             while (root != null) {
+                stack.push(root);
                 list.add(root.value);
-                stack.push(root.left);
                 root = root.left;
             }
-            list.add(C.NLF);
-            // stack.pop().right 需要检查 stack.isEmpty() 和 stack.peek() == null
-            while (!stack.isEmpty() && stack.peek() == null) {
-                stack.pop();
+            if (C.WithNLF) {
+                list.add(C.NLF);
             }
-            if (!stack.isEmpty()) {
-                root = stack.pop().right;
-            }
+            //attention: 为什么不需要判断stack.isEmpty()？因为while内仅有此处在pop，每次pop完都会被while循环判断一次
+            root = stack.pop().right;
+        }
+        if (C.WithNLF) {
+            list.add(C.NLF);// 补上最后一个节点的右孩子(空叶子节点)
         }
         return list.stream().mapToInt(x -> x).toArray();
     }
 
-    public int[] Met1hod2(BinaryTreeImpl root) {
+    public int[] Method_Stack2(BinaryTreeImpl root) {
         if (root == null) {
-            return null;
+            return new int[]{};
         }
         List<Integer> list = new ArrayList<>();
         Stack<BinaryTreeImpl> stack = new Stack<>();
-        stack.push(root);
-        while (!stack.isEmpty()) { // 递归的stack表示
+        while (!stack.isEmpty() || root != null) { // 递归的stack表示
+            if (root == null) {
+                if (C.WithNLF) {
+                    list.add(C.NLF);
+                }
+                root = stack.pop();
+                continue;
+            }
             list.add(root.value);
-            if (root.right != null) {
-                stack.push(root.right);
-            }
-            if (root.left != null) {
-                stack.push(root.left);
-            }
+            stack.push(root.right);
+            stack.push(root.left);
             root = stack.pop();
+        }
+        if (C.WithNLF) {
+            list.add(C.NLF); // 补上最后一个节点的右孩子(空叶子节点)
         }
         return list.stream().mapToInt(x -> x).toArray();
     }
 
     // 先序 遍历二叉树 输出数组【递归】
-    public int[] Met1hod_Recursive(BinaryTreeImpl root) {
+    public int[] Method_Recursive(BinaryTreeImpl root) {
         if (root == null) {
-            return null;
+            return new int[]{};
         }
-        return null;
+        List<Integer> list = new ArrayList<>();
+        roll(root, list);
+        return list.stream().mapToInt(x -> x).toArray();
+    }
+
+    public void roll(BinaryTreeImpl node, List<Integer> list) {
+        if (node == null) {
+            if (C.WithNLF) {
+                list.add(C.NLF);
+            }
+            return;
+        }
+        list.add(node.value);
+        roll(node.left, list);
+        roll(node.right, list);
     }
 }

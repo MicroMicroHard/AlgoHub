@@ -3,6 +3,8 @@ package Algorithm.math;
 import Common.Utils.UTFactory;
 import org.junit.Test;
 
+import java.util.Arrays;
+
 /**
  * @author 蔚蔚樱
  * @version 1.0
@@ -21,8 +23,8 @@ public class ClimbStairs {
 
     @Test // 调试功能 : 用于复现错误的测试案例
     public void DoubleTrack() throws Exception {
-        String input = "";
-        String output = "";
+        String input = "1";
+        String output = "1";
         UTFactory.DebugTest(this.getClass(), input, output);
     }
 
@@ -46,14 +48,16 @@ public class ClimbStairs {
     }
 
     private int expansion(int value) {
-        int[] statusNum1 = new int[value];
-        statusNum1[capacity - 1] = statusNum[capacity - 1];
-        statusNum1[capacity - 2] = statusNum[capacity - 2];
+        int[] statusNumNew = new int[value];
+        // attention :此处是扩容赋值，不赋值会导致 index10 之前的数据丢失
+        System.arraycopy(statusNum, 0, statusNumNew, 0, statusNum.length);
+        statusNumNew[capacity - 1] = statusNum[capacity - 1];
+        statusNumNew[capacity - 2] = statusNum[capacity - 2];
         for (int i = capacity; i < value; i++) {
-            statusNum1[i] = statusNum1[i - 1] + statusNum1[i - 2];
+            statusNumNew[i] = statusNumNew[i - 1] + statusNumNew[i - 2];
         }
         capacity = value;
-        statusNum = statusNum1;
+        statusNum = statusNumNew;
         return statusNum[capacity - 1];
     }
 }
