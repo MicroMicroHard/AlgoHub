@@ -19,6 +19,10 @@ import java.util.Queue;
  * 2    3
  * 4    5
  * 打印的左视图为：1，2，4
+ * 解决方法：
+ * Method_LevelQueue: 利用当前队列  统计每一层的最左边的元素
+ * Method_Queue     : 利用队列和标识 统计每一层的最左边的元素
+ * Method_Recursive : 利用递归和层高 统计每一层的最左边的元素
  * @blogURL
  */
 public class BT2ArrayByLeftView {
@@ -92,5 +96,31 @@ public class BT2ArrayByLeftView {
             }
         }
         return answerList.stream().mapToInt(x -> x.value).toArray();
+    }
+
+    int level = 0;
+
+    public int[] Method_Recursive(BinaryTreeImpl root) {
+        if (root == null) {
+            return new int[]{};
+        }
+        List<BinaryTreeImpl> answerList = new LinkedList<>();
+        level = 0;
+        roll(1, root, answerList);
+        return answerList.stream().mapToInt(x -> x.value).toArray();
+    }
+
+    public void roll(int depth, BinaryTreeImpl curNode, List<BinaryTreeImpl> answerList) {
+
+        if (depth > level) {
+            answerList.add(curNode);
+            level++;
+        }
+        if (curNode.left != null) {
+            roll(depth + 1, curNode.left, answerList);
+        }
+        if (curNode.right != null) {
+            roll(depth + 1, curNode.right, answerList);
+        }
     }
 }

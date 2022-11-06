@@ -51,10 +51,10 @@ public class QuickSort_Simplex implements ArraySortINTF {
         int midPosition = left;
         if (left < right) {
             //从左到右寻找比标杆小的元素，依次与mid交换
-            for (int i = left + 1; i <= right; i++) {
-                if (array[i] < array[left]) {
+            for (int cur = left + 1; cur <= right; cur++) {
+                if (array[cur] < array[left]) {
                     midPosition++;
-                    swap(array, midPosition, i);
+                    swap(array, midPosition, cur);
                 }
             }
             //最后一个比对元素跟标杆元素交换
